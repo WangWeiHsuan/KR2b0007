@@ -6,10 +6,11 @@
 #+PROPERTY: LASTPB  <pb:KR2b0007_SBCK_008-18b>
 #+PROPERTY: JUAN 10
 
-
-¶
+# SB1_0101-034.png
+# page missing
 <md:KR2b0007_WYG_010-1a>¶
 <pb:KR2b0007_SBCK_010-1a>
+# SB1_0101-035.png
 深<md:KR2b0007_WYG_010-2a>¶溝髙壘勿與戰彼前不得鬬退不得還野無所掠不
 至¶十日而两將之頭可致於麾下否則必為二子所禽
 矣¶成安君嘗自稱義兵不用詐謀竒計曰韓信兵少而

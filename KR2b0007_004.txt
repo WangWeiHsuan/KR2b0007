@@ -5,9 +5,6 @@
 #+PROPERTY:  LASTPB  <PB KR2b0007_SBCK_290-22a>
 #+PROPERTY: LASTPB  <md:KR2b0007_WYG_003-1a>
 #+PROPERTY: JUAN 4
-
-
-¶
 <md:KR2b0007_WYG_004-1a>¶
 <pb:KR2b0007_SBCK_004-1a>
 資治通鑑巻第四¶
@@ -435,3 +432,4 @@
 動燕趙直搖齊楚此四國者不待痛而<md:KR2b0007_WYG_004-40b>¶服矣王從之止
 武安君而謝韓魏使黄歇歸約親¶於楚¶
 資治通鑑巻第四
+<pb:KR2b0007_SBCK_004-19b>

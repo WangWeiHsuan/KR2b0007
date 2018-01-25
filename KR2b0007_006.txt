@@ -6,10 +6,11 @@
 #+PROPERTY: LASTPB  <pb:KR2b0007_SBCK_004-19b>
 #+PROPERTY: JUAN 6
 
-
-¶
+# SB1_0100-040.png
+# page missing
 <md:KR2b0007_WYG_006-1a>¶
 <pb:KR2b0007_SBCK_006-1a>
+# SB1_0100-041.png
 之曰子宣言¶欲代我相請聞其説蔡澤曰吁¶君何見之
 晚也夫四時之序成¶功者去君獨不見夫¶秦之商君楚
 之吳起越之大夫種何足願與<md:KR2b0007_WYG_006-2b>¶應矦謬曰何為不可此

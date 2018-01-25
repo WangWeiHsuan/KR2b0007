@@ -6,10 +6,11 @@
 #+PROPERTY: LASTPB  <md:KR2b0007_WYG_008-1a>
 #+PROPERTY: JUAN 9
 
-
-<pb:KR2b0007_SBCK_008-18b>
+# SB1_0101-002.png
+# page missing
 <md:KR2b0007_WYG_009-1a>¶
 <pb:KR2b0007_SBCK_009-1a>
+# SB1_0101-003.png
 難而七廟墮身死人手爲天下笑者何也仁誼不¶施而
 攻守之勢異也¶　沛公西入咸陽諸將皆争走金帛財
 物之府分之¶蕭何獨先入收秦丞相府圖籍藏之以此

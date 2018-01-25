@@ -6,10 +6,11 @@
 #+PROPERTY: LASTPB  <md:KR2b0007_WYG_012-1a>
 #+PROPERTY: JUAN 13
 
-
-<pb:KR2b0007_SBCK_012-21a>
+# SB1_0102-002.png
+# page missing
 <md:KR2b0007_WYG_013-1a>¶
 <pb:KR2b0007_SBCK_013-1a>
+# SB1_0102-003.png
 髙帝於地下乎陳平絳矦曰於今面折廷¶爭臣不如君
 全社稷定劉氏之後君亦不如¶臣陵無以應之十一月
 甲子太后以王陵爲帝太傅實<md:KR2b0007_WYG_013-2a>¶奪之相權陵遂病免歸

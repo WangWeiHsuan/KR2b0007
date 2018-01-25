@@ -6,10 +6,11 @@
 #+PROPERTY: LASTPB  <pb:KR2b0007_SBCK_015-18a>
 #+PROPERTY: JUAN 17
 
-
-<pb:KR2b0007_SBCK_016-20b>
+# SB1_0103-002.png
+# page missing
 <md:KR2b0007_WYG_017-1a>¶
 <pb:KR2b0007_SBCK_017-1a>
+# SB1_0103-003.png
 非道亡也幽厲不繇也至於宣王思昔先王之徳<md:KR2b0007_WYG_017-2a>¶興滯
 補敝明文武之功業周道粲然復興此夙夜¶不懈行善
 之所致也孔子曰人能𢎞道非道𢎞人¶故治亂廢興在

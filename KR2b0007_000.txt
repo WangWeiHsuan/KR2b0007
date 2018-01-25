@@ -4,9 +4,6 @@
 #+PROPERTY:  LASTPB  <MD KR2b0007_WYG_294-1a>
 #+PROPERTY:  LASTPB  <PB KR2b0007_SBCK_290-22a>
 #+PROPERTY: JUAN 0
-
-
-<pb:KR2b0007_SBCK_295-8a>
 <md:KR2b0007_WYG_000-1a>¶
 <pb:KR2b0007_SBCK_000-1a>
 資治通鑑序
@@ -51,3 +48,4 @@
 　　面賜
 　　御製序令候書¶成日冩入
 資治通鑑¶序終
+<md:KR2b0007_WYG_000-5a>¶
