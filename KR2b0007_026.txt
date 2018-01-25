@@ -5,9 +5,6 @@
 #+PROPERTY:  LASTPB  <PB KR2b0007_SBCK_290-22a>
 #+PROPERTY: LASTPB  <pb:KR2b0007_SBCK_024-20b>
 #+PROPERTY: JUAN 26
-
-
-<pb:KR2b0007_SBCK_025-20a>
 <md:KR2b0007_WYG_026-1a>¶
 <pb:KR2b0007_SBCK_026-1a>
 資治通鑑卷第二十六
@@ -365,3 +362,5 @@
 欺紿&KR0680;匈奴¶單于又殺先賢撣兩弟烏禪幕請之不聽
 心恚<md:KR2b0007_WYG_026-30a>¶其後左奥鞬王死單于自立其小子為奥鞬王留
 庭¶奥鞬貴人共立故奥鞬王子為王¶與俱東徙單于遣
+# SB1_0105-072.png
+# page missing

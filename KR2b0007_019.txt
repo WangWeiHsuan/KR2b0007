@@ -6,10 +6,11 @@
 #+PROPERTY: LASTPB  <pb:KR2b0007_SBCK_017-18a>
 #+PROPERTY: JUAN 19
 
-
-¶
+# SB1_0103-076.png
+# page missing
 <md:KR2b0007_WYG_019-1a>¶
 <pb:KR2b0007_SBCK_019-1a>
+# SB1_0103-077.png
 秦兼天下銷甲兵折鋒刃其後民<md:KR2b0007_WYG_019-2a>¶以耰鉏箠挺相撻擊¶
 犯灋滋衆盗賊不勝卒以亂¶亡故聖王務教化而省禁
 防知其不足恃也禮曰¶男子生桑弧蓬矢以舉之明示¶

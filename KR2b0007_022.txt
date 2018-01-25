@@ -5,11 +5,9 @@
 #+PROPERTY:  LASTPB  <PB KR2b0007_SBCK_290-22a>
 #+PROPERTY: LASTPB  <pb:KR2b0007_SBCK_020-18b>
 #+PROPERTY: JUAN 22
-
-
-¶
 <md:KR2b0007_WYG_022-1a>¶
 <pb:KR2b0007_SBCK_022-1a>
+# SB1_0104-042.png
 資治通鑑卷第二十二
 　　　　臣司馬　光奉　勑¶編集
 　　¶　漢紀十四(¶起昭陽協洽盡閼/逢敦牂凡十二年)

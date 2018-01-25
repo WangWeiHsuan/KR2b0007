@@ -6,10 +6,11 @@
 #+PROPERTY: LASTPB  <pb:KR2b0007_SBCK_016-20b>
 #+PROPERTY: JUAN 18
 
-
-<pb:KR2b0007_SBCK_017-18a>
+# SB1_0103-038.png
+# page missing
 <md:KR2b0007_WYG_018-1a>¶
 <pb:KR2b0007_SBCK_018-1a>
+# SB1_0103-039.png
 父游射處老人為兒時¶從其大父識其處一坐盡驚少
 君言上曰<md:KR2b0007_WYG_018-2a>¶祠竈則致物致物而丹沙可化為黄金壽可
 益蓬萊僊¶者可見見之以封禪則不死黃帝是也臣嘗
