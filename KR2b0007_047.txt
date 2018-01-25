@@ -6,10 +6,11 @@
 #+PROPERTY: LASTPB  <pb:KR2b0007_SBCK_045-18a>
 #+PROPERTY: JUAN 47
 
-
-¶
+# SB1_0110-074.png
+# page missing
 <md:KR2b0007_WYG_047-1a>¶
 <pb:KR2b0007_SBCK_047-1a>
+# SB1_0110-075.png
 威四者或興則下有怨心吾詔書數下冠蓋接¶道而吏
 不加治民或失職其¶咎安在勉思舊令稱朕意焉　北
 匈¶奴大人車利涿兵等亡來入塞凡七十三輩時北<md:KR2b0007_WYG_047-2a>¶虜

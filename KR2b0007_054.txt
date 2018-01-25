@@ -6,10 +6,11 @@
 #+PROPERTY: LASTPB  <pb:KR2b0007_SBCK_052-19b>
 #+PROPERTY: JUAN 54
 
-
-¶
+# SB1_0112-038.png
+# page missing
 <md:KR2b0007_WYG_054-1a>¶
 <pb:KR2b0007_SBCK_054-1a>
+# SB1_0112-039.png
 於¶貨在乎民飢竊見比年已來良苗盡於蝗螟之口¶杼
 軸空於公私之求民所患者豈謂錢貨之厚薄銖兩¶之
 輕重哉就使當今沙礫化為南金瓦石變為和玉¶使百

@@ -6,10 +6,11 @@
 #+PROPERTY: LASTPB  <md:KR2b0007_WYG_047-1a>
 #+PROPERTY: JUAN 48
 
-
-¶
+# SB1_0110-110.png
+# page missing
 <md:KR2b0007_WYG_048-1a>¶
 <pb:KR2b0007_SBCK_048-1a>
+# SB1_0110-111.png
 心因敇妻子若卒遇飛禍¶無得殯斂¶冀以區區腐身覺
 悟朝廷　三月癸丑司徒袁安薨¶　閏月丁丑以太常
 丁鴻為司徒　夏四月丙辰竇憲<md:KR2b0007_WYG_048-2a>¶還至京師　六月戊
@@ -406,3 +407,4 @@
 以勸勞勤
 <pb:KR2b0007_SBCK_048-18a>
 資治通鑑巻第四十八
+<pb:KR2b0007_SBCK_048-18b>

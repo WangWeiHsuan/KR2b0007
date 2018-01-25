@@ -6,10 +6,11 @@
 #+PROPERTY: LASTPB  <md:KR2b0007_WYG_052-1a>
 #+PROPERTY: JUAN 53
 
-
-<pb:KR2b0007_SBCK_052-19b>
+# SB1_0112-002.png
+# page missing
 <md:KR2b0007_WYG_053-1a>¶
 <pb:KR2b0007_SBCK_053-1a>
+# SB1_0112-003.png
 㑹目梁冀曰¶此跋扈將軍也¶冀¶聞深惡之閏月甲申冀
 使左右置毒於煑餅而¶進之¶帝苦煩甚使促¶召太尉李
 固固入前問帝得患所由帝尚能言曰食煑<md:KR2b0007_WYG_053-2b>¶餅今腹中

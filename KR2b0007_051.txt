@@ -6,10 +6,11 @@
 #+PROPERTY: LASTPB  <pb:KR2b0007_SBCK_049-19b>
 #+PROPERTY: JUAN 51
 
-
-<pb:KR2b0007_SBCK_050-22a>
+# SB1_0111-084.png
+# page missing
 <md:KR2b0007_WYG_051-1a>¶
 <pb:KR2b0007_SBCK_051-1a>
+# SB1_0111-085.png
 熹詣郊廟¶社稷告天請命¶其夕發䘮尊皇后曰皇太后太
 后臨朝以顯為車騎將¶軍儀同三司太后欲乆專國政貪
 立㓜年與顯等定策<md:KR2b0007_WYG_051-2a>¶禁中迎濟北惠王子北鄉矦懿為

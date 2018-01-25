@@ -6,10 +6,11 @@
 #+PROPERTY: LASTPB  <md:KR2b0007_WYG_056-1a>
 #+PROPERTY: JUAN 57
 
-
-<pb:KR2b0007_SBCK_056-19a>
+# SB1_0113-002.png
+# page missing
 <md:KR2b0007_WYG_057-1a>¶
 <pb:KR2b0007_SBCK_057-1a>
+# SB1_0113-003.png
 竝爲三¶司練達故事明解朝章故¶京師諺曰萬事不理
 問伯始天下中庸有胡公<md:KR2b0007_WYG_057-2a>¶然温柔謹慤常遜言恭色以
 取媚於時無忠直¶之風天下以此薄之　五月己巳赦

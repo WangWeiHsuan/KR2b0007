@@ -6,10 +6,11 @@
 #+PROPERTY: LASTPB  <md:KR2b0007_WYG_048-1a>
 #+PROPERTY: JUAN 49
 
-
-<pb:KR2b0007_SBCK_048-18b>
+# SB1_0111-002.png
+# page missing
 <md:KR2b0007_WYG_049-1a>¶
 <pb:KR2b0007_SBCK_049-1b>
+# SB1_0111-003.png
 特加慶以殊禮慶子祜年十三太后以帝¶㓜弱逺慮不
 虞留祜與嫡母耿&KR0078;居清河邸¶耿姬況之曾孫也祜母
 犍爲左姬也　<md:KR2b0007_WYG_049-2a>¶夏四月鮮卑寇漁陽漁陽太守張顯率
@@ -428,3 +429,4 @@
 <pb:KR2b0007_SBCK_049-19a>
 甫德為都鄉矦¶
 資治通鑑卷第四十九
+<pb:KR2b0007_SBCK_049-19b>

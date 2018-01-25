@@ -6,10 +6,11 @@
 #+PROPERTY: LASTPB  <md:KR2b0007_WYG_054-1a>
 #+PROPERTY: JUAN 55
 
-
-¶
+# SB1_0112-076.png
+# page missing
 <md:KR2b0007_WYG_055-1a>¶
 <pb:KR2b0007_SBCK_055-1a>
+# SB1_0112-077.png
 穉為飲食容問國家之事¶穉不答更問稼穡之事穉乃
 答之容還以語諸人<md:KR2b0007_WYG_055-2a>¶或曰孔子云可與言而不與言失
 人然¶則孺子其失人乎太原郭泰曰不然孺子之為人
