@@ -6,10 +6,11 @@
 #+PROPERTY: LASTPB  <pb:KR2b0007_SBCK_025-20a>
 #+PROPERTY: JUAN 27
 
-
-<pb:KR2b0007_SBCK_026-17a>
+# SB1_0105-074.png
+# page missing
 <md:KR2b0007_WYG_027-1a>¶
 <pb:KR2b0007_SBCK_027-1a>
+# SB1_0105-075.png
 義民三老力田皆以差賜爵及帛後數月徴¶霸為太子
 太傅　五月匈奴單于遣弟呼留若王勝之¶來朝　<md:KR2b0007_WYG_027-2a>¶冬
 十月鳯皇十一集杜陵　河南太守¶東海嚴延年為治

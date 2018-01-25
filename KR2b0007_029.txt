@@ -6,10 +6,11 @@
 #+PROPERTY: LASTPB  <md:KR2b0007_WYG_028-1a>
 #+PROPERTY: JUAN 29
 
-
-<pb:KR2b0007_SBCK_028-17b>
+# SB1_0106-002.png
+# page missing
 <md:KR2b0007_WYG_029-1a>¶
 <pb:KR2b0007_SBCK_029-1a>
+# SB1_0106-003.png
 四年春二月赦天下　三月上行幸雍祠五畤¶夏六月
 甲戌孝宣園東闕災　戊寅晦日有食之上¶於是召諸
 前言日變在周堪張猛者責問皆稽首謝¶因下詔稱堪

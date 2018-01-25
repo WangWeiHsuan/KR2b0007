@@ -6,10 +6,11 @@
 #+PROPERTY: LASTPB  <md:KR2b0007_WYG_030-1a>
 #+PROPERTY: JUAN 31
 
-
-¶
+# SB1_0106-080.png
+# page missing
 <md:KR2b0007_WYG_031-1a>¶
 <pb:KR2b0007_SBCK_031-1a>
+# SB1_0106-081.png
 音謹敕臣敢以死保之及鳳且死上䟽謝¶上復固薦音
 自代言譚等五人必不可用天子然¶之初譚倨不肯事
 鳳而音敬鳳卑恭如子故鳳¶薦之八月丁巳鳳薨九月

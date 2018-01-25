@@ -6,10 +6,11 @@
 #+PROPERTY: LASTPB  <pb:KR2b0007_SBCK_026-17a>
 #+PROPERTY: JUAN 28
 
-
-¶
+# SB1_0105-106.png
+# page missing
 <md:KR2b0007_WYG_028-1a>¶
 <pb:KR2b0007_SBCK_028-1a>
+# SB1_0105-107.png
 或人相食轉旁郡錢榖以相救　上素聞<md:KR2b0007_WYG_028-2a>¶琅邪王吉貢
 禹皆眀經潔行遣使者徴¶之吉道病卒禹至拜為諌大
 夫上數虚己問以政事¶禹奏言古者人君節儉什一¶而
@@ -391,3 +392,4 @@
 要害處
 <pb:KR2b0007_SBCK_028-17a>
 資治通鑑卷第二十八
+<pb:KR2b0007_SBCK_028-17b>
