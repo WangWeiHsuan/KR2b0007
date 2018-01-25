@@ -6,10 +6,11 @@
 #+PROPERTY: LASTPB  <md:KR2b0007_WYG_032-1a>
 #+PROPERTY: JUAN 33
 
-
-<pb:KR2b0007_SBCK_032-13b>
+# SB1_0107-002.png
+# page missing
 <md:KR2b0007_WYG_033-1a>¶
 <pb:KR2b0007_SBCK_033-1a>
+# SB1_0107-003.png
 姓窮困<md:KR2b0007_WYG_033-2a>¶曰欲退君位尚未忍使尚書令¶賜君上尊酒十
 石飬牛一君審處焉¶¶¶方進即日自¶殺上祕之遣九卿𠕋
 贈印綬賜乗輿祕器少府供張柱¶檻皆衣素¶天子親臨

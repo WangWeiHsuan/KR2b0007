@@ -6,10 +6,11 @@
 #+PROPERTY: LASTPB  <md:KR2b0007_WYG_034-1a>
 #+PROPERTY: JUAN 35
 
-
-<pb:KR2b0007_SBCK_034-16b>
+# SB1_0107-066.png
+# page missing
 <md:KR2b0007_WYG_035-1a>¶
 <pb:KR2b0007_SBCK_035-1a>
+# SB1_0107-067.png
 臨獸圈猛獸驚出貴人前當之元¶帝嘉美其義賜錢五
 萬掖庭見親¶有加賞賜屬其人勿衆謝¶示<md:KR2b0007_WYG_035-2a>¶平惡偏重失
 人心賞賜節約是時外戚貲千萬者¶少耳故少府水衡
