@@ -6,10 +6,11 @@
 #+PROPERTY: LASTPB  <pb:KR2b0007_SBCK_044-22a>
 #+PROPERTY: JUAN 46
 
-
-<pb:KR2b0007_SBCK_045-18a>
+# SB1_0110-038.png
+# page missing
 <md:KR2b0007_WYG_046-1a>¶
 <pb:KR2b0007_SBCK_046-1a>
+# SB1_0110-039.png
 匈¶奴西開三十六國百姓頻年服役轉輸煩費愁困之
 民¶足以感動天地陛下宜留念省察<md:KR2b0007_WYG_046-2a>¶帝下其章第五倫
 亦同終議牟融¶鮑昱皆以為孝子無改父之道征伐匈

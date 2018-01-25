@@ -6,10 +6,11 @@
 #+PROPERTY: LASTPB  <md:KR2b0007_WYG_036-1a>
 #+PROPERTY: JUAN 37
 
-
-<pb:KR2b0007_SBCK_036-17b>
+# SB1_0108-002.png
+# page missing
 <md:KR2b0007_WYG_037-1a>¶
 <pb:KR2b0007_SBCK_037-1a>
+# SB1_0108-003.png
 色以孝平皇后爲定安太后¶讀策畢莽親執孺子手流
 涕歔欷曰<md:KR2b0007_WYG_037-2a>¶昔周公攝位終得復子明辟今予獨迫皇天
 威命不得¶如意哀嘆良乆中傅將孺子下殿北靣而稱

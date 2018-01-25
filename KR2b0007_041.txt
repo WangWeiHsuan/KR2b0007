@@ -6,10 +6,11 @@
 #+PROPERTY: LASTPB  <pb:KR2b0007_SBCK_039-22a>
 #+PROPERTY: JUAN 41
 
-
-<pb:KR2b0007_SBCK_040-20b>
+# SB1_0109-002.png
+# page missing
 <md:KR2b0007_WYG_041-1a>¶
 <pb:KR2b0007_SBCK_041-1a>
+# SB1_0109-003.png
 赤眉<md:KR2b0007_WYG_041-1b>¶陽敗棄輜重走車皆載¶土以豆覆其上兵士飢爭
 取之赤眉引還擊𢎞𢎞¶軍潰亂異與禹合兵救之赤眉
 小卻異以士卒飢倦可<md:KR2b0007_WYG_041-2a>¶且休禹不聽復戰大爲所敗死

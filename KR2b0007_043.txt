@@ -6,10 +6,11 @@
 #+PROPERTY: LASTPB  <md:KR2b0007_WYG_042-1a>
 #+PROPERTY: JUAN 43
 
-
-¶
+# SB1_0109-082.png
+# page missing
 <md:KR2b0007_WYG_043-1a>¶
 <pb:KR2b0007_SBCK_043-1a>
+# SB1_0109-083.png
 宗族完全詔書手記不可數得述終無降意¶　秋七月
 馮駿拔江州獲田戎　帝戒吳漢曰成都十<md:KR2b0007_WYG_043-2a>¶餘萬衆不
 可輕也但堅據廣都待其來攻勿與爭鋒若¶不敢來公
