@@ -5,9 +5,6 @@
 #+PROPERTY:  LASTPB  <PB KR2b0007_SBCK_290-22a>
 #+PROPERTY: LASTPB  <md:KR2b0007_WYG_059-1a>
 #+PROPERTY: JUAN 60
-
-
-¶
 <md:KR2b0007_WYG_060-1a>¶
 <pb:KR2b0007_SBCK_060-1a>
 資治通鑑卷第六十¶
@@ -491,3 +488,4 @@
 饋疇悉撫¶納令不為寇　十二月辛丑地震　司空趙
 温免乙巳¶以衞尉張喜為司空¶
 資治通鑑巻第六十
+<pb:KR2b0007_SBCK_060-21b>

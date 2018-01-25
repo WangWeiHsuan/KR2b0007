@@ -6,10 +6,11 @@
 #+PROPERTY: LASTPB  <md:KR2b0007_WYG_060-1a>
 #+PROPERTY: JUAN 61
 
-
-<pb:KR2b0007_SBCK_060-21b>
+# SB1_0114-002.png
+# page missing
 <md:KR2b0007_WYG_061-1a>¶
 <pb:KR2b0007_SBCK_061-1b>
+# SB1_0114-003.png
 馬騰私有求於李傕¶不獲而怒欲舉兵相攻帝遣使者
 和解之不從韓遂¶率衆來和騰傕既而復與騰合諫議
 大<md:KR2b0007_WYG_061-2a>¶夫种邵侍中馬宇左中郎將劉範謀使騰襲長安已

@@ -6,10 +6,11 @@
 #+PROPERTY: LASTPB  <pb:KR2b0007_SBCK_056-19a>
 #+PROPERTY: JUAN 58
 
-
-¶
+# SB1_0113-040.png
+# page missing
 <md:KR2b0007_WYG_058-1a>¶
 <pb:KR2b0007_SBCK_058-1a>
+# SB1_0113-041.png
 太尉¶劉寛免衛尉許&KR1442;為太尉¶　閏月辛酉北宫東掖
 庭永巷署災　司徒¶楊賜罷　冬十月太常陳耽為司
 徒<md:KR2b0007_WYG_058-2a>¶　鮮卑冦幽并二州檀石槐死子和連代立和連¶才
