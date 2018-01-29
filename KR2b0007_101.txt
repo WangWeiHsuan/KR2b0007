@@ -6,10 +6,11 @@
 #+PROPERTY: LASTPB  <md:KR2b0007_WYG_100-1a>
 #+PROPERTY: JUAN 101
 
-
-<pb:KR2b0007_SBCK_100-22b>
+# SB1_0124-002.png
+# page missing
 <md:KR2b0007_WYG_101-1a>¶
 <pb:KR2b0007_SBCK_101-1a>
+# SB1_0124-003.png
 楊俊卒子世立　二月燕人尊可足渾后爲皇大后¶以
 太原王恪爲太宰專録朝政上庸王評爲¶太傅陽騖爲
 太保慕輿根爲太師參輔朝政根<md:KR2b0007_WYG_101-2a>¶性木强自恃先朝勲

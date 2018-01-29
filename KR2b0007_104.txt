@@ -6,10 +6,11 @@
 #+PROPERTY: LASTPB  <pb:KR2b0007_SBCK_102-20a>
 #+PROPERTY: JUAN 104
 
-
-<pb:KR2b0007_SBCK_103-18b>
+# SB1_0124-122.png
+# page missing
 <md:KR2b0007_WYG_104-1a>¶
 <pb:KR2b0007_SBCK_104-1a>
+# SB1_0124-123.png
 堅下詔曰朕聞王者¶勞於求賢逸於得士斯言何其驗
 也往得丞¶相常謂帝王易爲自丞相違世鬚髮中白¶毎
 一念之不覺酸慟今天下既無丞相或政教<md:KR2b0007_WYG_104-2a>¶淪替可分
@@ -502,3 +503,4 @@
 資治通鑑卷第一百四
 <pb:KR2b0007_SBCK_104-22a>
 𣈆孝武
+<pb:KR2b0007_SBCK_104-22b>

@@ -6,10 +6,11 @@
 #+PROPERTY: LASTPB  <md:KR2b0007_WYG_108-1a>
 #+PROPERTY: JUAN 109
 
-
-<pb:KR2b0007_SBCK_108-22b>
+# SB1_0126-002.png
+# page missing
 <md:KR2b0007_WYG_109-1a>¶
 <pb:KR2b0007_SBCK_109-1a>
+# SB1_0126-003.png
 狀甲辰風霾¶晝晦賴盧營有火建言於儀曰賴盧燒¶營
 爲變矣儀以爲然引兵退賴盧聞之亦退建帥其¶衆詣
 德降且言儀師老可擊德遣桂陽王<md:KR2b0007_WYG_109-2a>¶鎮南安王青帥騎

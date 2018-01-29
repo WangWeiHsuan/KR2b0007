@@ -6,10 +6,11 @@
 #+PROPERTY: LASTPB  <pb:KR2b0007_SBCK_112-21b>
 #+PROPERTY: JUAN 114
 
-
-<pb:KR2b0007_SBCK_113-20b>
+# SB1_0127-042.png
+# page missing
 <md:KR2b0007_WYG_114-1a>¶
 <pb:KR2b0007_SBCK_114-1a>
+# SB1_0127-043.png
 望見火起知城巳䧟其衆皆潰振逃于溳川¶乙未詔¶大
 處分悉委冠軍將軍劉毅戊戌大赦¶攺元惟&KR0074;氏不原
 以&KR0074;沖忠於王室特宥其孫㣧以魯¶宗之爲雍州刺史

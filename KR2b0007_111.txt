@@ -5,9 +5,6 @@
 #+PROPERTY:  LASTPB  <PB KR2b0007_SBCK_290-22a>
 #+PROPERTY: LASTPB  <md:KR2b0007_WYG_110-1a>
 #+PROPERTY: JUAN 111
-
-
-¶
 <md:KR2b0007_WYG_111-1a>¶
 <pb:KR2b0007_SBCK_111-1a>
 資治通鑑卷第一百一十一¶
@@ -491,3 +488,4 @@
 皇帝以北地¶王鍾為司徒慕輿拔為司空封孚為左僕
 射慕輿䕶為¶右僕射立妃叚氏為皇后¶
 資治通鑑卷第一百一十一
+<pb:KR2b0007_SBCK_111-21b>

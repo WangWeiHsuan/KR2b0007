@@ -5,9 +5,6 @@
 #+PROPERTY:  LASTPB  <PB KR2b0007_SBCK_290-22a>
 #+PROPERTY: LASTPB  <pb:KR2b0007_SBCK_111-21b>
 #+PROPERTY: JUAN 113
-
-
-<pb:KR2b0007_SBCK_112-21b>
 <md:KR2b0007_WYG_113-1a>¶
 <pb:KR2b0007_SBCK_113-1a>
 資治通鑑卷第一百一十三¶
@@ -464,3 +461,4 @@
 文處茂擊破¶之放之走還江陵　髙句麗侵燕　戊辰<md:KR2b0007_WYG_113-34a>¶魏主珪如犲山宫　是歳晉民避亂襁負之淮北者道¶
 路相屬
 資治通鑑卷第一百一十三
+<pb:KR2b0007_SBCK_113-20b>

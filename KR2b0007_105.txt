@@ -6,10 +6,11 @@
 #+PROPERTY: LASTPB  <pb:KR2b0007_SBCK_103-18b>
 #+PROPERTY: JUAN 105
 
-
-<pb:KR2b0007_SBCK_104-22b>
+# SB1_0125-002.png
+# page missing
 <md:KR2b0007_WYG_105-1a>¶
 <pb:KR2b0007_SBCK_105-1a>
+# SB1_0125-003.png
 襄陽<md:KR2b0007_WYG_105-1b>¶兖州刺史張崇救武當後將軍張蚝步兵校尉姚
 萇救¶涪城叡軍于新野垂軍于鄧城&KR0074;沖¶退屯沔南秋
 七月郭銓及冠軍將軍&KR0074;石䖍敗<md:KR2b0007_WYG_105-2a>¶張崇于武當掠二千

@@ -6,10 +6,11 @@
 #+PROPERTY: LASTPB  <pb:KR2b0007_SBCK_104-22b>
 #+PROPERTY: JUAN 106
 
-
-¶
+# SB1_0125-046.png
+# page missing
 <md:KR2b0007_WYG_106-1a>¶
 <pb:KR2b0007_SBCK_106-1a>
+# SB1_0125-047.png
 海公珍嶺北諸¶城悉降之　甲寅秦王堅與西燕主冲
 戰于仇班¶渠大破之乙卯戰于雀桑¶又破之甲子戰于
 白渠秦兵大敗西燕<md:KR2b0007_WYG_106-2a>¶兵圍秦王堅殿中將軍鄧邁等力

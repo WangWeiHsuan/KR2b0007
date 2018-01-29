@@ -6,10 +6,11 @@
 #+PROPERTY: LASTPB  <md:KR2b0007_WYG_106-1a>
 #+PROPERTY: JUAN 107
 
-
-¶
+# SB1_0125-088.png
+# page missing
 <md:KR2b0007_WYG_107-1a>¶
 <pb:KR2b0007_SBCK_107-1a>
+# SB1_0125-089.png
 岸温攀温楷果走趣城¶平幼追擊大破之詳夜將妻子
 犇彭城其衆三萬餘¶户皆降於燕垂以太原王楷爲兖
 州刺史鎭東阿¶&KR0004;垂在長安秦王堅甞與之交手語垂
