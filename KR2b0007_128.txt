@@ -5,9 +5,6 @@
 #+PROPERTY:  LASTPB  <PB KR2b0007_SBCK_290-22a>
 #+PROPERTY: LASTPB  <md:KR2b0007_WYG_127-1a>
 #+PROPERTY: JUAN 128
-
-
-¶
 <md:KR2b0007_WYG_128-1a>¶
 <pb:KR2b0007_SBCK_128-1a>
 資治通鑑卷第一百二十八
@@ -477,3 +474,4 @@
 所移唯應恭已守道而闍者不逹妄意僥倖¶徒虧雅道
 無闗得喪乃以其意命弟子原著定¶命論以釋之
 資治通鑑卷第一百二十八
+<pb:KR2b0007_SBCK_128-21a>

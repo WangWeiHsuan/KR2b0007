@@ -6,10 +6,11 @@
 #+PROPERTY: LASTPB  <pb:KR2b0007_SBCK_124-22b>
 #+PROPERTY: JUAN 126
 
-
-¶
+# SB1_0130-044.png
+# page missing
 <md:KR2b0007_WYG_126-1a>¶
 <pb:KR2b0007_SBCK_126-1a>
+# SB1_0130-045.png
 爲<md:KR2b0007_WYG_126-1b>¶亂階雖逺何益請死於此恥復屢遷¶竟未及往魏師
 之𤓰歩人情忷懼上慮不¶逞之人復奉義康爲亂太子
 劭及武陵王駿尚書左僕<md:KR2b0007_WYG_126-2a>¶射何尚之屢啓宜早爲之所

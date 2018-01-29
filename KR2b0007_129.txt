@@ -6,10 +6,11 @@
 #+PROPERTY: LASTPB  <md:KR2b0007_WYG_128-1a>
 #+PROPERTY: JUAN 129
 
-
-<pb:KR2b0007_SBCK_128-21a>
+# SB1_0131-002.png
+# page missing
 <md:KR2b0007_WYG_129-1a>¶
 <pb:KR2b0007_SBCK_129-1a>
+# SB1_0131-003.png
 弟子推爲京兆王　竟陵王誕知上意忌¶之亦濳爲之
 備因魏人入冦修城浚隍聚糧治仗¶誕記室參軍江智
 淵知誕有異志請假先還建康上以爲<md:KR2b0007_WYG_129-2a>¶中書侍郎智淵

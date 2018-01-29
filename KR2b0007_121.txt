@@ -6,10 +6,11 @@
 #+PROPERTY: LASTPB  <md:KR2b0007_WYG_120-1a>
 #+PROPERTY: JUAN 121
 
-
-<pb:KR2b0007_SBCK_120-22b>
+# SB1_0129-002.png
+# page missing
 <md:KR2b0007_WYG_121-1a>¶
 <pb:KR2b0007_SBCK_121-1a>
+# SB1_0129-003.png
 代濬帥&KR0016;三千討之二¶月嵩爲吐谷渾元緒所執　魏
 改元神䴥¶　魏平北將軍尉眷攻¶夏主於上邽夏主退
 屯平涼奚斤進軍安定與丘<md:KR2b0007_WYG_121-2a>¶堆娥青軍合斤馬多疫死

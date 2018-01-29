@@ -6,10 +6,11 @@
 #+PROPERTY: LASTPB  <pb:KR2b0007_SBCK_123-22a>
 #+PROPERTY: JUAN 125
 
-
-<pb:KR2b0007_SBCK_124-22b>
+# SB1_0130-002.png
+# page missing
 <md:KR2b0007_WYG_125-1a>¶
 <pb:KR2b0007_SBCK_125-1a>
+# SB1_0130-003.png
 司索牧犍家得所匿物魏主大怒賜沮¶渠昭儀死并誅
 其宗族唯沮渠祖以先降得免¶又有告牧犍猶與故臣
 民交通謀反者三月魏主遣¶崔浩就第賜牧犍死諡曰

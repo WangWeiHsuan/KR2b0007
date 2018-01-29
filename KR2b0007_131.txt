@@ -6,10 +6,11 @@
 #+PROPERTY: LASTPB  <md:KR2b0007_WYG_130-1a>
 #+PROPERTY: JUAN 131
 
-
-<pb:KR2b0007_SBCK_130-14a>
+# SB1_0131-062.png
+# page missing
 <md:KR2b0007_WYG_131-1a>¶
 <pb:KR2b0007_SBCK_131-1a>
+# SB1_0131-063.png
 曰今衆軍姓號不同¶若有耕夫漁父夜相呵叱便致駭
 亂取敗之¶道也請就一軍取號衆咸從之　¶鄧琬稱説
 符瑞詐稱受路太后璽書帥將佐上尊號於<md:KR2b0007_WYG_131-2a>¶晉安王子

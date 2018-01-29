@@ -6,10 +6,11 @@
 #+PROPERTY: LASTPB  <pb:KR2b0007_SBCK_133-20a>
 #+PROPERTY: JUAN 135
 
-
-¶
+# SB1_0132-086.png
+# page missing
 <md:KR2b0007_WYG_135-1a>¶
 <pb:KR2b0007_SBCK_135-1a>
+# SB1_0132-087.png
 號中軍<md:KR2b0007_WYG_135-2a>¶大將軍開府儀同三司　太¶傅道成以謝朏有
 重名必欲引參佐命以為左長史嘗¶置酒與論魏晉故
 事因曰石苞不早勸晉文死方慟哭¶方之馮異非知機

@@ -6,10 +6,11 @@
 #+PROPERTY: LASTPB  <md:KR2b0007_WYG_118-1a>
 #+PROPERTY: JUAN 119
 
-
-<pb:KR2b0007_SBCK_118-22a>
+# SB1_0128-080.png
+# page missing
 <md:KR2b0007_WYG_119-1a>¶
 <pb:KR2b0007_SBCK_119-1a>
+# SB1_0128-081.png
 師<md:KR2b0007_WYG_119-2a>¶羣臣惟盛稱功德莫諭其意日晚坐散中書令傅¶亮
 還外乃悟而宫門已閉亮叩扉請見王即開門¶見之亮
 入但曰臣暫宐還都王解其意無復他言¶直云須幾人

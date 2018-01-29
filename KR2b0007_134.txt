@@ -6,10 +6,11 @@
 #+PROPERTY: LASTPB  <pb:KR2b0007_SBCK_132-17a>
 #+PROPERTY: JUAN 134
 
-
-<pb:KR2b0007_SBCK_133-20a>
+# SB1_0132-042.png
+# page missing
 <md:KR2b0007_WYG_134-1a>¶
 <pb:KR2b0007_SBCK_134-1a>
+# SB1_0132-043.png
 爲太¶尉尚書左僕射宜都王目辰爲司徒南部尚書李¶
 訢爲司空尊皇太后曰太皇太后復臨朝稱制<md:KR2b0007_WYG_134-2a>¶以馮熈
 爲侍中太師中書監熈自以外¶戚固辭内任乃除都督
