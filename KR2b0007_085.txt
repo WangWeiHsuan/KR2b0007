@@ -6,10 +6,11 @@
 #+PROPERTY: LASTPB  <md:KR2b0007_WYG_084-1a>
 #+PROPERTY: JUAN 85
 
-
-<pb:KR2b0007_SBCK_084-18a>
+# SB1_0120-002.png
+# page missing
 <md:KR2b0007_WYG_085-1a>¶
 <pb:KR2b0007_SBCK_085-1a>
+# SB1_0120-003.png
 虞又與特司馬上官惇書曰納絳如待¶敵不可易也前
 將軍雄亦以爲<md:KR2b0007_WYG_085-2a>¶言特怒曰大事已定但當安民何爲更
 逆加疑忌使之¶離叛乎朝廷遣荆州刺史宗岱建平太

@@ -6,10 +6,11 @@
 #+PROPERTY: LASTPB  <md:KR2b0007_WYG_082-1a>
 #+PROPERTY: JUAN 83
 
-
-¶
+# SB1_0119-080.png
+# page missing
 <md:KR2b0007_WYG_083-1a>¶
 <pb:KR2b0007_SBCK_083-1a>
+# SB1_0119-081.png
 其¶巳然之效也是以有道之君牧夷狄也惟以¶待之有
 僃禦之有常雖稽顙執贄<md:KR2b0007_WYG_083-2a>¶而邉城不弛固守¶彊暴爲寇
 而兵甲不加逺征期¶令境内獲安彊埸不侵而已及至

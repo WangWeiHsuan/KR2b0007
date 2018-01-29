@@ -6,10 +6,11 @@
 #+PROPERTY: LASTPB  <pb:KR2b0007_SBCK_080-19b>
 #+PROPERTY: JUAN 82
 
-
-¶
+# SB1_0119-042.png
+# page missing
 <md:KR2b0007_WYG_082-1a>¶
 <pb:KR2b0007_SBCK_082-1a>
+# SB1_0119-043.png
 僻逺徙居徒河之青山¶¶　冬十月復明堂及南郊五帝
 位¶　十一月丙辰尚書令濟北成矦¶荀朂卒勗有才思
 善伺人主意以是能¶固其寵久在中書專管機事及遷

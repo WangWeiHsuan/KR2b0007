@@ -6,10 +6,11 @@
 #+PROPERTY: LASTPB  <md:KR2b0007_WYG_080-1a>
 #+PROPERTY: JUAN 81
 
-
-<pb:KR2b0007_SBCK_080-19b>
+# SB1_0119-002.png
+# page missing
 <md:KR2b0007_WYG_081-1a>¶
 <pb:KR2b0007_SBCK_081-1b>
+# SB1_0119-003.png
 油在¶船前遇鎖然炬燒之須&KR0119;融液斷絶於是船無所
 礙¶庚申濬克西陵殺吳都督留憲等壬¶戍克荆門夷道
 二城殺夷道監陸晏杜<md:KR2b0007_WYG_081-2a>¶預遣牙門周㫖等帥奇兵八百

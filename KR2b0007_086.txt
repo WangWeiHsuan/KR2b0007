@@ -6,10 +6,11 @@
 #+PROPERTY: LASTPB  <pb:KR2b0007_SBCK_084-18a>
 #+PROPERTY: JUAN 86
 
-
-¶
+# SB1_0120-040.png
+# page missing
 <md:KR2b0007_WYG_086-1a>¶
 <pb:KR2b0007_SBCK_086-1a>
+# SB1_0120-041.png
 不知長沙厲王及皇甫商已死¶重獲御史騶人<md:KR2b0007_WYG_086-2a>¶問曰我
 弟將兵來欲至未騶人曰已為河間¶王所害重失色立
 殺騶人於是城中知無外救共殺重¶以降顒以馮翊太

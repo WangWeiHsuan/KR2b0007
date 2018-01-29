@@ -6,10 +6,11 @@
 #+PROPERTY: LASTPB  <pb:KR2b0007_SBCK_077-20b>
 #+PROPERTY: JUAN 79
 
-
-<pb:KR2b0007_SBCK_078-19a>
+# SB1_0118-078.png
+# page missing
 <md:KR2b0007_WYG_079-1a>¶
 <pb:KR2b0007_SBCK_079-1a>
+# SB1_0118-079.png
 國晉¶王　九月乙未大赦　戊子以魏司徒何曾為晉
 丞相<md:KR2b0007_WYG_079-2a>¶癸亥以票騎将軍司馬望為司徒　乙亥葬¶文王
 于崇陽陵　冬吳西陵¶督歩闡表請吳主徙都¶武昌吳
