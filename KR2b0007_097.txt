@@ -6,10 +6,11 @@
 #+PROPERTY: LASTPB  <md:KR2b0007_WYG_096-1a>
 #+PROPERTY: JUAN 97
 
-
-<pb:KR2b0007_SBCK_096-21b>
+# SB1_0123-002.png
+# page missing
 <md:KR2b0007_WYG_097-1a>¶
 <pb:KR2b0007_SBCK_097-1a>
+# SB1_0123-003.png
 立城壁公私勞擾又江州當¶泝流數千里供給軍府力
 役増倍且武昌實江東鎭戍¶之中非但扞禦上流而巳
 緩急赴告駿奔不難&KR0002;¶移樂鄉逺在西陲一朝江渚有

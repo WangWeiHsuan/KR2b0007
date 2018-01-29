@@ -6,10 +6,11 @@
 #+PROPERTY: LASTPB  <md:KR2b0007_WYG_098-1a>
 #+PROPERTY: JUAN 99
 
-
-¶
+# SB1_0123-086.png
+# page missing
 <md:KR2b0007_WYG_099-1a>¶
 <pb:KR2b0007_SBCK_099-1a>
+# SB1_0123-087.png
 帝廟號太祖立妻强氏爲天王后子萇¶爲太子靚爲平
 原公生爲淮南公覿爲長樂¶公方爲高陽公碩爲北平
 公騰爲淮陽公柳爲晉¶公桐爲汝南公廋爲魏公武爲

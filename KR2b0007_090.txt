@@ -6,10 +6,11 @@
 #+PROPERTY: LASTPB  <pb:KR2b0007_SBCK_088-21b>
 #+PROPERTY: JUAN 90
 
-
-¶
+# SB1_0121-046.png
+# page missing
 <md:KR2b0007_WYG_090-1a>¶
 <pb:KR2b0007_SBCK_090-1a>
+# SB1_0121-047.png
 寔以其老弗許及聞長安不守肅悲憤而¶卒寔遣太府
 司馬韓璞<md:KR2b0007_WYG_090-2a>¶撫戎將軍張閬等帥步騎一萬¶東擊漢命討
 虜將軍陳安¶故太守賈騫¶¶隴西太¶守吳紹各統郡兵為

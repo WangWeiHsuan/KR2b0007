@@ -6,10 +6,11 @@
 #+PROPERTY: LASTPB  <md:KR2b0007_WYG_088-1a>
 #+PROPERTY: JUAN 89
 
-
-<pb:KR2b0007_SBCK_088-21b>
+# SB1_0121-002.png
+# page missing
 <md:KR2b0007_WYG_089-1a>¶
 <pb:KR2b0007_SBCK_089-1b>
+# SB1_0121-003.png
 進後宫無序矣　聦置丞相等七公¶又置輔漢等十六
 大將軍¶各配兵二千以諸子<md:KR2b0007_WYG_089-2a>¶爲之又置左右司𨽻各領
 户二十餘萬萬户置一内史¶單于左右輔各主六夷十

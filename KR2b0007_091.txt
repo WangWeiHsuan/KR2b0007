@@ -6,10 +6,11 @@
 #+PROPERTY: LASTPB  <md:KR2b0007_WYG_090-1a>
 #+PROPERTY: JUAN 91
 
-
-¶
+# SB1_0121-080.png
+# page missing
 <md:KR2b0007_WYG_091-1a>¶
 <pb:KR2b0007_SBCK_091-1a>
+# SB1_0121-081.png
 蹕如曹公輔漢故事¶拜王脩及其副劉茂皆為將軍封
 列矦脩舍人曹¶平樂從脩至粟邑因留仕漢言於曜曰
 大司馬遣<md:KR2b0007_WYG_091-2a>¶脩等來外表至誠内覘大駕彊弱俟¶其復命

@@ -6,10 +6,11 @@
 #+PROPERTY: LASTPB  <pb:KR2b0007_SBCK_092-20a>
 #+PROPERTY: JUAN 94
 
-
-<pb:KR2b0007_SBCK_093-20a>
+# SB1_0122-042.png
+# page missing
 <md:KR2b0007_WYG_094-1a>¶
 <pb:KR2b0007_SBCK_094-1a>
+# SB1_0122-043.png
 小丹楊<md:KR2b0007_WYG_094-2a>¶來迷失道夜行無復部分亮聞乃悔之朝士以
 京¶邑危逼多遣家人入東避難左衛¶將軍劉超獨遷妻
 孥入居宮内詔以卞壼都督¶大桁東諸軍事與侍中鍾
