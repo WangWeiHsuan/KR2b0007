@@ -6,10 +6,11 @@
 #+PROPERTY: LASTPB  <md:KR2b0007_WYG_086-1a>
 #+PROPERTY: JUAN 87
 
-
-¶
+# SB1_0120-078.png
+# page missing
 <md:KR2b0007_WYG_087-1a>¶
 <pb:KR2b0007_SBCK_087-1a>
+# SB1_0120-079.png
 劫璠為主詔徴璠為越騎¶校尉南州由是遂亂父老莫
 不追思劉弘¶　丁巳太傅越自滎陽入京師中書¶監王
 敦謂所親曰太傅專執威權而選用表請尚書猶<md:KR2b0007_WYG_087-2a>¶以舊
