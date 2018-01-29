@@ -5,9 +5,6 @@
 #+PROPERTY:  LASTPB  <PB KR2b0007_SBCK_290-22a>
 #+PROPERTY: LASTPB  <md:KR2b0007_WYG_071-1a>
 #+PROPERTY: JUAN 72
-
-
-<pb:KR2b0007_SBCK_071-16a>
 <md:KR2b0007_WYG_072-1a>¶
 <pb:KR2b0007_SBCK_072-1a>
 資治通鑑卷第七十二¶
@@ -553,3 +550,4 @@
 濬討武陵蠻數年斬獲數萬自是¶羣蠻衰弱一方寧靜
 十一月濬還武昌
 資治通鑑卷第七十二
+<pb:KR2b0007_SBCK_072-24a>

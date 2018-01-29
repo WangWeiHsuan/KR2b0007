@@ -6,10 +6,11 @@
 #+PROPERTY: LASTPB  <md:KR2b0007_WYG_064-1a>
 #+PROPERTY: JUAN 65
 
-
-<pb:KR2b0007_SBCK_064-17a>
+# SB1_0115-002.png
+# page missing
 <md:KR2b0007_WYG_065-1a>¶
 <pb:KR2b0007_SBCK_065-1a>
+# SB1_0115-003.png
 到官誘喻招納皆禮召其豪右稍稍薦舉¶使詣幕府豪
 右已盡次發諸丁彊以爲義從<md:KR2b0007_WYG_065-2a>¶又因大軍出征令諸將
 分請以爲勇力吏兵已去¶之後稍移其家前後送鄴凡
