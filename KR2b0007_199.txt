@@ -5,9 +5,6 @@
 #+PROPERTY:  LASTPB  <PB KR2b0007_SBCK_290-22a>
 #+PROPERTY: LASTPB  <pb:KR2b0007_SBCK_197-22a>
 #+PROPERTY: JUAN 199
-
-
-¶
 <md:KR2b0007_WYG_199-1a>¶
 <pb:KR2b0007_SBCK_199-1a>
 資治通鑑卷第一百九十九
@@ -533,3 +530,4 @@
 立一后何豫諸人事而妄生異議乎¶昭儀令左右以聞
 庚午貶¶遂良為潭州都督
 資治通鑑卷第一百九十九
+<pb:KR2b0007_SBCK_199-23b>

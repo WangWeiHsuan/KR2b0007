@@ -5,9 +5,6 @@
 #+PROPERTY:  LASTPB  <PB KR2b0007_SBCK_290-22a>
 #+PROPERTY: LASTPB  <md:KR2b0007_WYG_192-1a>
 #+PROPERTY: JUAN 193
-
-
-¶
 <md:KR2b0007_WYG_193-1a>¶
 <pb:KR2b0007_SBCK_193-1a>
 資治通鑑卷第一百九十三
@@ -531,3 +528,4 @@
 明<md:KR2b0007_WYG_193-41b>¶所部愛之　新羅王真平卒無嗣國人立其¶女善德
 爲王¶
 資治通鑑卷第一百九十三
+<pb:KR2b0007_SBCK_193-23a>

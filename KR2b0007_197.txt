@@ -5,9 +5,6 @@
 #+PROPERTY:  LASTPB  <PB KR2b0007_SBCK_290-22a>
 #+PROPERTY: LASTPB  <pb:KR2b0007_SBCK_195-22b>
 #+PROPERTY: JUAN 197
-
-
-<pb:KR2b0007_SBCK_196-21a>
 <md:KR2b0007_WYG_197-1a>¶
 <pb:KR2b0007_SBCK_197-1b>
 資治通鑑卷第一百九十七¶
@@ -490,3 +487,4 @@
 單騎往救之㧞¶何力於萬衆之中而還何力氣益憤束
 瘡而¶戰從騎奮擊遂破髙麗兵追奔數十里斬首千餘¶
 級㑹暝而罷萬備萬徹之弟也<md:KR2b0007_WYG_197-35a>¶資治通鑑卷第一百九十七
+<pb:KR2b0007_SBCK_197-22a>

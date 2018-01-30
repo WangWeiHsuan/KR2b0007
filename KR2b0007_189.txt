@@ -5,9 +5,6 @@
 #+PROPERTY:  LASTPB  <PB KR2b0007_SBCK_290-22a>
 #+PROPERTY: LASTPB  <pb:KR2b0007_SBCK_187-23a>
 #+PROPERTY: JUAN 189
-
-
-¶
 <md:KR2b0007_WYG_189-1a>¶
 <pb:KR2b0007_SBCK_189-1a>
 資治通鑑巻第一百八十九¶
@@ -518,3 +515,4 @@
 來降　己巳劉黑¶闥䧟邢州趙州庚午䧟魏州殺揔管
 潘道毅辛未䧟莘¶州<md:KR2b0007_WYG_189-41b>¶　壬申徙宋王元嘉為徐王¶
 資治通鑑巻第一百八十九
+<pb:KR2b0007_SBCK_189-22b>

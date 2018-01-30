@@ -5,9 +5,6 @@
 #+PROPERTY:  LASTPB  <PB KR2b0007_SBCK_290-22a>
 #+PROPERTY: LASTPB  <pb:KR2b0007_SBCK_199-23b>
 #+PROPERTY: JUAN 201
-
-
-¶
 <md:KR2b0007_WYG_201-1a>¶
 <pb:KR2b0007_SBCK_201-1a>
 資治通鑑卷第二百一
@@ -536,3 +533,4 @@
 冬十<md:KR2b0007_WYG_201-39b>¶月乙未太子右中護同東西臺三品趙仁本為左
 肅機¶罷政事　庚寅詔官名皆復舊¶
 資治通鑑卷第二百一
+<pb:KR2b0007_SBCK_201-23b>

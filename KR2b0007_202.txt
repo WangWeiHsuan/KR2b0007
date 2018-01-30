@@ -5,9 +5,6 @@
 #+PROPERTY:  LASTPB  <PB KR2b0007_SBCK_290-22a>
 #+PROPERTY: LASTPB  <md:KR2b0007_WYG_201-1a>
 #+PROPERTY: JUAN 202
-
-
-<pb:KR2b0007_SBCK_201-23b>
 <md:KR2b0007_WYG_202-1a>¶
 <pb:KR2b0007_SBCK_202-1a>
 資治通鑑卷第二百二
@@ -538,4 +535,6 @@
 故太子賢於巴州¶
 資治通鑑卷第二百二
 <pb:KR2b0007_SBCK_202-23b>
+# image missing
 唐武后
+<pb:KR2b0007_SBCK_202-24a>

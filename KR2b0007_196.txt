@@ -5,9 +5,6 @@
 #+PROPERTY:  LASTPB  <PB KR2b0007_SBCK_290-22a>
 #+PROPERTY: LASTPB  <md:KR2b0007_WYG_195-1a>
 #+PROPERTY: JUAN 196
-
-
-<pb:KR2b0007_SBCK_195-22b>
 <md:KR2b0007_WYG_196-1a>¶
 <pb:KR2b0007_SBCK_196-1a>
 資治通鑑卷第一百九十六¶
@@ -484,3 +481,4 @@
 歩耳與卿為大事豈比齊王乎㑹治祐反事連承基¶承
 基坐繫大理獄當死
 資治通鑑卷第一百九十六
+<pb:KR2b0007_SBCK_196-21a>
