@@ -5,9 +5,6 @@
 #+PROPERTY:  LASTPB  <PB KR2b0007_SBCK_290-22a>
 #+PROPERTY: LASTPB  <md:KR2b0007_WYG_170-1a>
 #+PROPERTY: JUAN 171
-
-
-<pb:KR2b0007_SBCK_170-24a>
 <md:KR2b0007_WYG_171-1a>¶
 <pb:KR2b0007_SBCK_171-1b>
 資治通鑑卷第一百七十一
@@ -517,3 +514,6 @@
 已¶因讓綽曰如此樂事何<md:KR2b0007_WYG_171-41b>¶不早馳驛奏聞由是大有寵
 拜大將軍朝夕同戱韓長¶鸞疾之是歳出為齊州刺史
 將發使人誣告其反奏云¶此犯國灋不可赦帝不忍明
+<pb:KR2b0007_SBCK_171-23a>
+# SB1_0142-045.png
+# page missing

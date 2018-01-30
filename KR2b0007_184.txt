@@ -5,9 +5,6 @@
 #+PROPERTY:  LASTPB  <PB KR2b0007_SBCK_290-22a>
 #+PROPERTY: LASTPB  <md:KR2b0007_WYG_183-1a>
 #+PROPERTY: JUAN 184
-
-
-¶
 <md:KR2b0007_WYG_184-1a>¶
 <pb:KR2b0007_SBCK_184-1a>
 資治通鑑卷第一百八十四¶
@@ -509,3 +506,4 @@
 𢎞於豫章士𢎞疑之營於南塘上¶善安恨之¶襲破士𢎞
 焚其郛郭而去士𢎞徙居南康蕭銑遣其將¶蘇胡兒襲
 豫章克之士𢎞退保餘干¶¶　︻¶卷第一百八十四
+<pb:KR2b0007_SBCK_184-22a>

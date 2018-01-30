@@ -5,9 +5,6 @@
 #+PROPERTY:  LASTPB  <PB KR2b0007_SBCK_290-22a>
 #+PROPERTY: LASTPB  <pb:KR2b0007_SBCK_184-22a>
 #+PROPERTY: JUAN 186
-
-
-¶
 <md:KR2b0007_WYG_186-1a>¶
 <pb:KR2b0007_SBCK_186-1a>
 資治通鑑卷第一百八十六
@@ -469,3 +466,4 @@
 豈可散之以飼羸¶弱僕射茍悅人情不為國計非忠臣
 也軌以¶為然由是士民離怨
 資治通鑑卷第一百八十六
+<pb:KR2b0007_SBCK_186-20b>

@@ -5,9 +5,6 @@
 #+PROPERTY:  LASTPB  <PB KR2b0007_SBCK_290-22a>
 #+PROPERTY: LASTPB  <pb:KR2b0007_SBCK_178-22a>
 #+PROPERTY: JUAN 180
-
-
-¶
 <md:KR2b0007_WYG_180-1a>¶
 <pb:KR2b0007_SBCK_180-1a>
 資治通鑑卷第一百八十¶
@@ -514,3 +511,4 @@
 軍馮孝慈出敦煌擊之不利<md:KR2b0007_WYG_180-41b>¶鐵勒尋遣使謝罪請降帝
 使裴矩慰撫之¶
 資治通鑑卷第一百八十
+<pb:KR2b0007_SBCK_180-22b>

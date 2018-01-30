@@ -5,9 +5,6 @@
 #+PROPERTY:  LASTPB  <PB KR2b0007_SBCK_290-22a>
 #+PROPERTY: LASTPB  <md:KR2b0007_WYG_169-1a>
 #+PROPERTY: JUAN 170
-
-
-¶
 <md:KR2b0007_WYG_170-1a>¶
 <pb:KR2b0007_SBCK_170-1a>
 資治通鑑卷第一百七十
@@ -538,3 +535,4 @@
 朝廷興亡繼絶理宜資贍¶望借數州以資梁國直然之
 遣使言狀周主詔以基平<md:KR2b0007_WYG_170-40a>¶鄀三州與之¶¶
 資治通鑑卷第一百七十
+<pb:KR2b0007_SBCK_170-24a>

@@ -5,9 +5,6 @@
 #+PROPERTY:  LASTPB  <PB KR2b0007_SBCK_290-22a>
 #+PROPERTY: LASTPB  <md:KR2b0007_WYG_180-1a>
 #+PROPERTY: JUAN 181
-
-
-<pb:KR2b0007_SBCK_180-22b>
 <md:KR2b0007_WYG_181-1a>¶
 <pb:KR2b0007_SBCK_181-1a>
 資治通鑑卷第一百八十一¶
@@ -479,3 +476,4 @@
 朝政詔賜盡于家衡臨死大言曰我爲人作<md:KR2b0007_WYG_181-37b>¶何等事而
 望乆活監刑者塞耳¶促令殺之
 資治通鑑卷第一百八十一
+<pb:KR2b0007_SBCK_181-21a>

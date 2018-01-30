@@ -5,9 +5,6 @@
 #+PROPERTY:  LASTPB  <PB KR2b0007_SBCK_290-22a>
 #+PROPERTY: LASTPB  <md:KR2b0007_WYG_177-1a>
 #+PROPERTY: JUAN 178
-
-
-¶
 <md:KR2b0007_WYG_178-1a>¶
 <pb:KR2b0007_SBCK_178-1a>
 資治通鑑卷第一百七十八
@@ -498,3 +495,4 @@
 自¶攜離其主被殺乘此招撫可以盡降請遣染干部下
 分¶道招慰上從之降者甚衆
 資治通鑑卷第一百七十八
+<pb:KR2b0007_SBCK_178-22a>

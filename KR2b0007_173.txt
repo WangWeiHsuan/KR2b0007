@@ -5,9 +5,6 @@
 #+PROPERTY:  LASTPB  <PB KR2b0007_SBCK_290-22a>
 #+PROPERTY: LASTPB  <pb:KR2b0007_SBCK_171-23a>
 #+PROPERTY: JUAN 173
-
-
-¶
 <md:KR2b0007_WYG_173-1a>¶
 <pb:KR2b0007_SBCK_173-1a>
 資治通鑑巻第一百七十三
@@ -450,3 +447,6 @@
 將軍順州刺史上遣將軍¶樊猛濟江擊之法尚遣部曲
 督韓朗詐降於猛曰法尚<md:KR2b0007_WYG_173-38a>¶部兵不願降北人皆竊議欲
 叛還若得¶軍來自當倒戈猛以為然引兵急趨之法尚
+<pb:KR2b0007_SBCK_173-19b>
+# SB1_0142-117.png
+# page missing
