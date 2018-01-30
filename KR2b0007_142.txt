@@ -6,10 +6,11 @@
 #+PROPERTY: LASTPB  <pb:KR2b0007_SBCK_140-21a>
 #+PROPERTY: JUAN 142
 
-
-<pb:KR2b0007_SBCK_141-18a>
+# SB1_0134-078.png
+# page missing
 <md:KR2b0007_WYG_142-1a>¶
 <pb:KR2b0007_SBCK_142-1a>
+# SB1_0134-079.png
 婦人¶猶戴㡌著小襖¶何謂日新對曰著者少不著者多
 帝曰任城此何言也¶必欲使滿城盡著邪澄與留守官
 皆免冠謝¶甲辰魏大赦魏主之幸鄴也李彪迎拜於鄴

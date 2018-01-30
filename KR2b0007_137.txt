@@ -6,10 +6,11 @@
 #+PROPERTY: LASTPB  <pb:KR2b0007_SBCK_135-23a>
 #+PROPERTY: JUAN 137
 
-
-<pb:KR2b0007_SBCK_136-20a>
+# SB1_0133-042.png
+# page missing
 <md:KR2b0007_WYG_137-1a>¶
 <pb:KR2b0007_SBCK_137-1a>
+# SB1_0133-043.png
 史&KR0225;<md:KR2b0007_WYG_137-1b>¶鸞之弟也&KR0225;留心獄¶訟得劫皆赦遣許以自新再
 犯乃加誅<md:KR2b0007_WYG_137-2a>¶民畏而愛之　癸卯大赦　丙午魏主如方
 山¶丙辰遂如靈泉池八月丙寅朔還宫　河南王度易
