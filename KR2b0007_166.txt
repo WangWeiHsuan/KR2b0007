@@ -5,9 +5,6 @@
 #+PROPERTY:  LASTPB  <PB KR2b0007_SBCK_290-22a>
 #+PROPERTY: LASTPB  <md:KR2b0007_WYG_165-1a>
 #+PROPERTY: JUAN 166
-
-
-¶
 <md:KR2b0007_WYG_166-1a>¶
 <pb:KR2b0007_SBCK_166-1a>
 資治通鑑卷第一百六十六
@@ -489,3 +486,4 @@
 <pb:KR2b0007_SBCK_166-21a>
 司馬府
 資治通鑑卷第一百六十六
+<pb:KR2b0007_SBCK_166-21b>
