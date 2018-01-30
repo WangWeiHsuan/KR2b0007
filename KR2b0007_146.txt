@@ -6,10 +6,11 @@
 #+PROPERTY: LASTPB  <pb:KR2b0007_SBCK_144-22a>
 #+PROPERTY: JUAN 146
 
-
-¶
+# SB1_0135-090.png
+# page missing
 <md:KR2b0007_WYG_146-1a>¶
 <pb:KR2b0007_SBCK_146-1a>
+# SB1_0135-091.png
 學生往會稽雲門¶山從何胤受業命胤選¶門徒中經明
 行修者具以名聞分遣博士祭酒巡<md:KR2b0007_WYG_146-2a>¶州郡立學　初譙
 國夏矦道遷以輔國将軍從裴叔業¶鎮夀陽為南譙太

@@ -6,10 +6,11 @@
 #+PROPERTY: LASTPB  <md:KR2b0007_WYG_161-1a>
 #+PROPERTY: JUAN 162
 
-
-¶
+# SB1_0139-070.png
+# page missing
 <md:KR2b0007_WYG_162-1a>¶
 <pb:KR2b0007_SBCK_162-1a>
+# SB1_0139-071.png
 方食投箸&KR0013;甲與¶其麾下百&KR0016;馳往救之與景戰於青
 塘¶大破之斬首數百級沈淮水死者千餘人仲禮矟¶將
 及景而賊將支伯仁自後斫仲禮中肩馬䧟于¶淖賊聚

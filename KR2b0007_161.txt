@@ -6,10 +6,11 @@
 #+PROPERTY: LASTPB  <pb:KR2b0007_SBCK_159-13b>
 #+PROPERTY: JUAN 161
 
-
-
+# SB1_0139-030.png
+# page missing
 <md:KR2b0007_WYG_161-1a>¶
 <pb:KR2b0007_SBCK_161-1a>
+# SB1_0139-031.png
 之曰跛奴¶欲何爲邪景怒破城殺詬者而¶去晝夜兼行
 追軍不敢逼使<md:KR2b0007_WYG_161-2a>¶謂紹宗曰景&KR0002;就擒公復何用紹宗乃
 縱之¶　辛丑以尚書僕射謝舉¶爲尚書令守吏部尚書

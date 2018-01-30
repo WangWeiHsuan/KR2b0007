@@ -6,10 +6,11 @@
 #+PROPERTY: LASTPB  <md:KR2b0007_WYG_147-1a>
 #+PROPERTY: JUAN 148
 
-
-<pb:KR2b0007_SBCK_147-20b>
+# SB1_0136-002.png
+# page missing
 <md:KR2b0007_WYG_148-1a>¶
 <pb:KR2b0007_SBCK_148-1a>
+# SB1_0136-003.png
 令也於是光等請¶太子止哭立於東序于忠與黄門郎
 元昭扶太子西面¶哭十餘聲止光攝太尉奉策進璽綬
 太子跪¶受服衮冕之服御太極殿即皇帝位光¶等與夜

@@ -6,10 +6,11 @@
 #+PROPERTY: LASTPB  <pb:KR2b0007_SBCK_147-20b>
 #+PROPERTY: JUAN 149
 
-
-¶
+# SB1_0136-044.png
+# page missing
 <md:KR2b0007_WYG_149-1a>¶
 <pb:KR2b0007_SBCK_149-1a>
+# SB1_0136-045.png
 父子晏然不以為意¶二月庚午羽¶林虎賁近千人相帥
 至尚書省詬罵¶求仲瑀兄左民郎中始均不獲以¶瓦石
 擊省門上下懾懼莫敢禁討遂持火掠道中<md:KR2b0007_WYG_149-2a>¶薪蒿以杖

@@ -6,10 +6,11 @@
 #+PROPERTY: LASTPB  <md:KR2b0007_WYG_159-1a>
 #+PROPERTY: JUAN 160
 
-
-<pb:KR2b0007_SBCK_159-13b>
+# SB1_0139-002.png
+# page missing
 <md:KR2b0007_WYG_160-1a>¶
 <pb:KR2b0007_SBCK_160-1b>
+# SB1_0139-003.png
 繹爲<md:KR2b0007_WYG_160-1b>¶荆州刺史有微過續代之以¶状聞¶自此二王不通書
 問繹聞其¶死入閤而躍屧爲之破<md:KR2b0007_WYG_160-2a>¶　丙午東魏勃海獻武
 王歡卒歡性深¶宻終日儼然人不能測機權之際變化&KR0002;

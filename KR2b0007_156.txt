@@ -6,10 +6,11 @@
 #+PROPERTY: LASTPB  <md:KR2b0007_WYG_155-1a>
 #+PROPERTY: JUAN 156
 
-
-<pb:KR2b0007_SBCK_155-21a>
+# SB1_0138-002.png
+# page missing
 <md:KR2b0007_WYG_156-1a>¶
 <pb:KR2b0007_SBCK_156-1b>
+# SB1_0138-003.png
 通&KR0323;¶¶於¶&KR0172;<md:KR2b0007_WYG_156-1b>¶唯張亮無啓䟽&KR0172;¶嘉之以爲丞相府參軍
 魏罷諸<md:KR2b0007_WYG_156-2a>¶行臺　辛亥上祀¶明堂　丁巳魏主追尊其父
 爲武穆帝太妃馮氏爲武¶穆后母李氏爲皇太妃　營

@@ -6,10 +6,11 @@
 #+PROPERTY: LASTPB  <md:KR2b0007_WYG_151-1a>
 #+PROPERTY: JUAN 152
 
-
-<pb:KR2b0007_SBCK_151-15b>
+# SB1_0137-002.png
+# page missing
 <md:KR2b0007_WYG_152-1a>¶
 <pb:KR2b0007_SBCK_152-1b>
+# SB1_0137-003.png
 不殺衆無不感其¶仁及葛榮代脩禮統衆使人&KR0003;津許¶
 以爲司徒津斬其使固守三年¶杜洛周圍之魏不能救
 津遣其子遁突圍出詣柔¶然頭兵可汗求救遁日夜泣

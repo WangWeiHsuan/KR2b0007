@@ -5,9 +5,6 @@
 #+PROPERTY:  LASTPB  <PB KR2b0007_SBCK_290-22a>
 #+PROPERTY: LASTPB  <pb:KR2b0007_SBCK_153-11b>
 #+PROPERTY: JUAN 155
-
-
-¶
 <md:KR2b0007_WYG_155-1a>¶
 <pb:KR2b0007_SBCK_155-1a>
 資治通鑑卷第一百五十五¶
@@ -471,3 +468,4 @@
 精&KR0016;馳之一日一夜行三百里歡以大軍繼¶之
 <pb:KR2b0007_SBCK_155-20b>
 資治通鑑卷第一百五十五
+<pb:KR2b0007_SBCK_155-21a>

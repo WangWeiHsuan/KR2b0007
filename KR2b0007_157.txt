@@ -6,10 +6,11 @@
 #+PROPERTY: LASTPB  <pb:KR2b0007_SBCK_155-21a>
 #+PROPERTY: JUAN 157
 
-
-¶
+# SB1_0138-044.png
+# page missing
 <md:KR2b0007_WYG_157-1a>¶
 <pb:KR2b0007_SBCK_157-1a>
+# SB1_0138-045.png
 州刺史曹泥資送至雲州&KR0172;聞之遣資糧迎&KR0049;拜車&KR0016;¶
 大將軍道元至晉陽&KR0172;始聞孝武帝之喪啓¶請舉哀制
 服東魏主使羣臣議之太學博士潘<md:KR2b0007_WYG_157-2a>¶崇和以為君遇臣

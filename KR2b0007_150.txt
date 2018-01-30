@@ -6,10 +6,11 @@
 #+PROPERTY: LASTPB  <md:KR2b0007_WYG_149-1a>
 #+PROPERTY: JUAN 150
 
-
-
+# SB1_0136-084.png
+# page missing
 <md:KR2b0007_WYG_150-1a>¶
 <pb:KR2b0007_SBCK_150-1a>
+# SB1_0136-085.png
 我賀拔破胡也¶賊不敢逼勝見彧於雲中<md:KR2b0007_WYG_150-2a>¶説之曰懐¶朔
 被圍旦夕淪陷大王今頓兵不進懐朔若陷則武川¶亦
 危賊之鋭氣百倍雖有良平不能為大王計矣彧許¶為

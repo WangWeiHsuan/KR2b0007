@@ -5,9 +5,6 @@
 #+PROPERTY:  LASTPB  <PB KR2b0007_SBCK_290-22a>
 #+PROPERTY: LASTPB  <pb:KR2b0007_SBCK_151-15b>
 #+PROPERTY: JUAN 153
-
-
-¶
 <md:KR2b0007_WYG_153-1a>¶
 <pb:KR2b0007_SBCK_153-1a>
 資治通鑑卷第一百五十三
@@ -251,3 +248,4 @@
 衆至三萬攻陷北徐州慶之討<md:KR2b0007_WYG_153-19a>¶斬之　魏以岐州刺史
 王羆行南秦州事羆誘捕州境¶羣盗悉誅之
 資治通鑑卷第一百五十三
+<pb:KR2b0007_SBCK_153-11b>

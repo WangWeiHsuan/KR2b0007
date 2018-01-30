@@ -6,10 +6,11 @@
 #+PROPERTY: LASTPB  <pb:KR2b0007_SBCK_143-14b>
 #+PROPERTY: JUAN 145
 
-
-<pb:KR2b0007_SBCK_144-22a>
+# SB1_0135-046.png
+# page missing
 <md:KR2b0007_WYG_145-1a>¶
 <pb:KR2b0007_SBCK_145-1a>
+# SB1_0135-047.png
 長史王亮為中書監<md:KR2b0007_WYG_145-2a>¶兼尚書令　初大司馬與黃門侍
 郎范雲南清河太守沈¶約司徒右長史任昉同在竟陵
 王西邸¶意好敦宻至是引雲為大¶司馬諮議參軍領録
