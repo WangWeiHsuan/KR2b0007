@@ -5,9 +5,6 @@
 #+PROPERTY:  LASTPB  <PB KR2b0007_SBCK_290-22a>
 #+PROPERTY: LASTPB  <pb:KR2b0007_SBCK_201-23b>
 #+PROPERTY: JUAN 203
-
-
-<pb:KR2b0007_SBCK_202-24a>
 <md:KR2b0007_WYG_203-1a>¶
 <pb:KR2b0007_SBCK_203-1b>
 資治通鑑卷第二百三
@@ -541,3 +538,4 @@
 州境𦒿老歌剌史德美者盈路翰薦之於朝¶徵爲冬官
 侍郎¶
 資治通鑑卷第二百三
+<pb:KR2b0007_SBCK_203-24a>

@@ -5,9 +5,6 @@
 #+PROPERTY:  LASTPB  <PB KR2b0007_SBCK_290-22a>
 #+PROPERTY: LASTPB  <pb:KR2b0007_SBCK_202-24a>
 #+PROPERTY: JUAN 204
-
-
-<pb:KR2b0007_SBCK_203-24a>
 <md:KR2b0007_WYG_204-1a>¶
 <pb:KR2b0007_SBCK_204-1a>
 資治通鑑卷第二百四
@@ -515,3 +512,4 @@
 假丞簿事耳¶若天子爲之發敕則天下之事幾敕可¶盡乎
 必欲不違其願請普爲立制而巳太后善之¶
 資治通鑑卷第二百四
+<pb:KR2b0007_SBCK_204-22b>
