@@ -5,9 +5,6 @@
 #+PROPERTY:  LASTPB  <PB KR2b0007_SBCK_290-22a>
 #+PROPERTY: LASTPB  <pb:KR2b0007_SBCK_233-20b>
 #+PROPERTY: JUAN 235
-
-
-<pb:KR2b0007_SBCK_234-23a>
 <md:KR2b0007_WYG_235-1a>¶
 <pb:KR2b0007_SBCK_235-1a>
 資治通鑑卷第二百三十五
@@ -512,3 +509,4 @@
 <pb:KR2b0007_SBCK_235-22a>
 乘驛計事至是以兵數不利恐獲罪遂來奔¶¶¶
 資治通鑑卷第二百三十五
+<pb:KR2b0007_SBCK_235-22b>

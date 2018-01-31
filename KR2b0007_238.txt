@@ -5,9 +5,6 @@
 #+PROPERTY:  LASTPB  <PB KR2b0007_SBCK_290-22a>
 #+PROPERTY: LASTPB  <pb:KR2b0007_SBCK_236-19b>
 #+PROPERTY: JUAN 238
-
-
-¶
 <md:KR2b0007_WYG_238-1a>¶
 <pb:KR2b0007_SBCK_238-1a>
 資治通鑑卷第二百三十八
@@ -532,3 +529,4 @@
 散久之興度不免¶乃謂衆曰汝肯聽吾言乎皆曰惟命興
 曰勿犯副大使¶守朝廷法令申版籍請官吏然後可皆
 曰諾興乃殺蔣¶士則等十餘人遷懐諫於外︻卷終
+<pb:KR2b0007_SBCK_238-23a>

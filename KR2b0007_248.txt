@@ -5,9 +5,6 @@
 #+PROPERTY:  LASTPB  <PB KR2b0007_SBCK_290-22a>
 #+PROPERTY: LASTPB  <pb:KR2b0007_SBCK_246-23b>
 #+PROPERTY: JUAN 248
-
-
-¶
 <md:KR2b0007_WYG_248-1a>¶
 <pb:KR2b0007_SBCK_248-1a>
 資治通鑑卷第二百四十八
@@ -538,3 +535,4 @@
 謚曰至徳弘道大聖大安孝皇帝憲宗謚曰¶昭文章武
 大聖至神孝皇帝仍改題神主¶己未崖州司户李徳裕
 卒　山南西¶道節度使鄭涯奏取扶州<md:KR2b0007_WYG_248-44a>¶資治通鑑卷第二百四十八
+<pb:KR2b0007_SBCK_248-23b>

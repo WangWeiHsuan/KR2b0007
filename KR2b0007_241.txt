@@ -5,9 +5,6 @@
 #+PROPERTY:  LASTPB  <PB KR2b0007_SBCK_290-22a>
 #+PROPERTY: LASTPB  <pb:KR2b0007_SBCK_239-22b>
 #+PROPERTY: JUAN 241
-
-
-¶
 <md:KR2b0007_WYG_241-1a>¶
 <pb:KR2b0007_SBCK_241-1a>
 資治通鑑卷第二百四十一
@@ -493,3 +490,4 @@
 詬責吏卒¶謂軍士曰今天下太平汝曹能挽兩石弓<md:KR2b0007_WYG_241-37b>¶不
 若識一丁字由是軍中人人怨怒¶
 資治通鑑卷第二百四十一
+<pb:KR2b0007_SBCK_241-21b>

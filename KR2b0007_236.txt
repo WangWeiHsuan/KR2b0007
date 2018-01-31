@@ -5,9 +5,6 @@
 #+PROPERTY:  LASTPB  <PB KR2b0007_SBCK_290-22a>
 #+PROPERTY: LASTPB  <pb:KR2b0007_SBCK_234-23a>
 #+PROPERTY: JUAN 236
-
-
-<pb:KR2b0007_SBCK_235-22b>
 <md:KR2b0007_WYG_236-1a>¶
 <pb:KR2b0007_SBCK_236-1a>
 資治通鑑卷第二百三十六
@@ -441,3 +438,4 @@
 蘇州刺史兼辭行上書稱李錡且反必奏族臣¶上然之
 留為吏部郎中¶
 資治通鑑卷第二百三十六
+<pb:KR2b0007_SBCK_236-19b>

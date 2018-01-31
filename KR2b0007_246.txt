@@ -5,9 +5,6 @@
 #+PROPERTY:  LASTPB  <PB KR2b0007_SBCK_290-22a>
 #+PROPERTY: LASTPB  <md:KR2b0007_WYG_245-1a>
 #+PROPERTY: JUAN 246
-
-
-<pb:KR2b0007_SBCK_245-23a>
 <md:KR2b0007_WYG_246-1a>¶
 <pb:KR2b0007_SBCK_246-1a>
 資治通鑑卷第二百四十六
@@ -539,3 +536,4 @@
 之¶恐熱盡併其衆合十餘萬自渭州至松州所過殘滅
 尸¶相枕藉
 資治通鑑卷第二百四十六
+<pb:KR2b0007_SBCK_246-23b>

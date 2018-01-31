@@ -5,9 +5,6 @@
 #+PROPERTY:  LASTPB  <PB KR2b0007_SBCK_290-22a>
 #+PROPERTY: LASTPB  <md:KR2b0007_WYG_250-1a>
 #+PROPERTY: JUAN 251
-
-
-<pb:KR2b0007_SBCK_250-22b>
 <md:KR2b0007_WYG_251-1a>¶
 <pb:KR2b0007_SBCK_251-1a>
 資治通鑑卷第二百五十一
@@ -496,3 +493,4 @@
 顔慶復將兵赴¶援
 <pb:KR2b0007_SBCK_251-21b>
 資治通鑑巻第二百五十一
+<pb:KR2b0007_SBCK_251-22a>

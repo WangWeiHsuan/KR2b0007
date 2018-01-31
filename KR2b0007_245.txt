@@ -5,9 +5,6 @@
 #+PROPERTY:  LASTPB  <PB KR2b0007_SBCK_290-22a>
 #+PROPERTY: LASTPB  <md:KR2b0007_WYG_244-1a>
 #+PROPERTY: JUAN 245
-
-
-
 <md:KR2b0007_WYG_245-1a>¶
 <pb:KR2b0007_SBCK_245-1a>
 資治通鑑卷第二百四十五
@@ -528,3 +525,4 @@
 節度使　甲寅御史臺奏蕭𢎞詐妄詔遞歸鄉里¶不之
 罪冀得其真¶
 資治通鑑卷第二百四十五
+<pb:KR2b0007_SBCK_245-23a>

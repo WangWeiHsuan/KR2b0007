@@ -5,9 +5,6 @@
 #+PROPERTY:  LASTPB  <PB KR2b0007_SBCK_290-22a>
 #+PROPERTY: LASTPB  <md:KR2b0007_WYG_241-1a>
 #+PROPERTY: JUAN 242
-
-
-<pb:KR2b0007_SBCK_241-21b>
 <md:KR2b0007_WYG_242-1a>¶
 <pb:KR2b0007_SBCK_242-1a>
 資治通鑑卷第二百四十二
@@ -429,3 +426,4 @@
 太子裴度請速下詔¶副天下望上無言既而兩省官亦
 繼有請立太子者癸巳詔立¶景王湛爲皇太子¶¶¶上疾浸
 瘳　是嵗初行宣明曆<md:KR2b0007_WYG_242-34a>¶資治通鑑卷第二百四十二
+<pb:KR2b0007_SBCK_242-19a>
