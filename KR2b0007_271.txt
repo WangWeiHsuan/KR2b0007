@@ -5,9 +5,6 @@
 #+PROPERTY:  LASTPB  <PB KR2b0007_SBCK_290-22a>
 #+PROPERTY: LASTPB  <md:KR2b0007_WYG_270-1a>
 #+PROPERTY: JUAN 271
-
-
-<pb:KR2b0007_SBCK_270-23a>
 <md:KR2b0007_WYG_271-1a>¶
 <pb:KR2b0007_SBCK_271-1a>
 資治通鑑卷第二百七十一
@@ -422,3 +419,4 @@
 嵗契丹改元天賛　大¶封王躬乂性殘忍海軍統帥王
 建殺之自立復稱¶高麗王以開州為東京平壤為西京
 建儉約寛厚國人¶安之<md:KR2b0007_WYG_271-33b>¶資治通鑑卷第二百七十一
+<pb:KR2b0007_SBCK_271-18b>

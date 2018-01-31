@@ -5,9 +5,6 @@
 #+PROPERTY:  LASTPB  <PB KR2b0007_SBCK_290-22a>
 #+PROPERTY: LASTPB  <pb:KR2b0007_SBCK_270-23a>
 #+PROPERTY: JUAN 272
-
-
-<pb:KR2b0007_SBCK_271-18b>
 <md:KR2b0007_WYG_272-1a>¶
 <pb:KR2b0007_SBCK_272-1a>
 資治通鑑卷第二百七十二¶
@@ -499,3 +496,5 @@
 幾不¶免虎口又謂將佐曰新朝百戰方得河南¶乃對功
 臣舉手云吾於十指上得¶天下矜伐如此則它人皆無
 功矣其誰不解體又荒于<md:KR2b0007_WYG_272-38a>¶禽色何能久長吾無憂矣乃
+# SB1_0173-079.png
+# page missing
