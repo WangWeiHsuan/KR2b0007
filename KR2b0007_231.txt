@@ -5,9 +5,6 @@
 #+PROPERTY:  LASTPB  <PB KR2b0007_SBCK_290-22a>
 #+PROPERTY: LASTPB  <md:KR2b0007_WYG_230-1a>
 #+PROPERTY: JUAN 231
-
-
-¶
 <md:KR2b0007_WYG_231-1a>¶
 <pb:KR2b0007_SBCK_231-1a>
 資治通鑑卷第二百三十一¶
@@ -456,3 +453,4 @@
 使　大旱灞滻將¶竭長安井皆無水度支奏中外經費
 纔支七旬¶
 資治通鑑卷第二百三十一
+<pb:KR2b0007_SBCK_231-20a>

@@ -5,9 +5,6 @@
 #+PROPERTY:  LASTPB  <PB KR2b0007_SBCK_290-22a>
 #+PROPERTY: LASTPB  <md:KR2b0007_WYG_211-1a>
 #+PROPERTY: JUAN 212
-
-
-<pb:KR2b0007_SBCK_211-23b>
 <md:KR2b0007_WYG_212-1a>¶
 <pb:KR2b0007_SBCK_212-1a>
 資治通鑑卷第二百一十二
@@ -540,3 +537,4 @@
 厥及諸胡謀叛安西副大都護杜暹發兵¶捕斬之更爲
 立王
 資治通鑑卷第二百一十二
+<pb:KR2b0007_SBCK_212-23b>

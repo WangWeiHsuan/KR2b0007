@@ -5,9 +5,6 @@
 #+PROPERTY:  LASTPB  <PB KR2b0007_SBCK_290-22a>
 #+PROPERTY: LASTPB  <md:KR2b0007_WYG_233-1a>
 #+PROPERTY: JUAN 234
-
-
-<pb:KR2b0007_SBCK_233-20b>
 <md:KR2b0007_WYG_234-1a>¶
 <pb:KR2b0007_SBCK_234-1a>
 資治通鑑卷第二百三十四
@@ -525,3 +522,4 @@
 俗嚴其令以¶懲違微損有餘稍優不足損不失富優可
 賑窮此乃古者安¶富恤窮之善經不可捨也¶
 資治通鑑卷第二百三十四
+<pb:KR2b0007_SBCK_234-23a>

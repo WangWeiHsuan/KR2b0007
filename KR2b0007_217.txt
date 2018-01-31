@@ -5,9 +5,6 @@
 #+PROPERTY:  LASTPB  <PB KR2b0007_SBCK_290-22a>
 #+PROPERTY: LASTPB  <md:KR2b0007_WYG_216-1a>
 #+PROPERTY: JUAN 217
-
-
-<pb:KR2b0007_SBCK_216-21b>
 <md:KR2b0007_WYG_217-1a>¶
 <pb:KR2b0007_SBCK_217-1a>
 資治通鑑卷第二百一十七¶
@@ -489,3 +486,4 @@
 節度使魯炅立柵於滍水之南¶安禄山將武令珣畢思
 琛攻之
 資治通鑑卷第二百一十七
+<pb:KR2b0007_SBCK_217-21b>

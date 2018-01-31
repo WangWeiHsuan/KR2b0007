@@ -5,9 +5,6 @@
 #+PROPERTY:  LASTPB  <PB KR2b0007_SBCK_290-22a>
 #+PROPERTY: LASTPB  <pb:KR2b0007_SBCK_203-24a>
 #+PROPERTY: JUAN 205
-
-
-<pb:KR2b0007_SBCK_204-22b>
 <md:KR2b0007_WYG_205-1a>¶
 <pb:KR2b0007_SBCK_205-1a>
 資治通鑑卷第二百五¶
@@ -492,3 +489,4 @@
 容若其用之何事不可豈直司刑而巳哉<md:KR2b0007_WYG_205-40b>¶
 <pb:KR2b0007_SBCK_205-21b>
 資治通鑑卷第二百五
+<pb:KR2b0007_SBCK_205-22a>

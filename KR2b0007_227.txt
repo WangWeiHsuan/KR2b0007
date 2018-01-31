@@ -5,9 +5,6 @@
 #+PROPERTY:  LASTPB  <PB KR2b0007_SBCK_290-22a>
 #+PROPERTY: LASTPB  <md:KR2b0007_WYG_226-1a>
 #+PROPERTY: JUAN 227
-
-
-<pb:KR2b0007_SBCK_226-22b>
 <md:KR2b0007_WYG_227-1a>¶
 <pb:KR2b0007_SBCK_227-1a>
 資治通鑑卷第二百二十七¶
@@ -516,3 +513,4 @@
 怨望乃相與謀遣使詣許州¶勸希烈稱帝希烈由是自
 稱天下都元帥　¶司天少監徐承嗣請更造建中正元
 曆從之<md:KR2b0007_WYG_227-42b>¶資治通鑑卷第二百二十七
+<pb:KR2b0007_SBCK_227-22b>

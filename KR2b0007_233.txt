@@ -5,9 +5,6 @@
 #+PROPERTY:  LASTPB  <PB KR2b0007_SBCK_290-22a>
 #+PROPERTY: LASTPB  <pb:KR2b0007_SBCK_231-20a>
 #+PROPERTY: JUAN 233
-
-
-¶
 <md:KR2b0007_WYG_233-1a>¶
 <pb:KR2b0007_SBCK_233-1a>
 資治通鑑卷第二百三十三
@@ -461,3 +458,4 @@
 <pb:KR2b0007_SBCK_233-20a>
 雲南使者韋臯遣三部落揔管蘓峞¶將兵至琵琶川¶
 資治通鑑卷第二百三十三
+<pb:KR2b0007_SBCK_233-20b>

@@ -5,9 +5,6 @@
 #+PROPERTY:  LASTPB  <PB KR2b0007_SBCK_290-22a>
 #+PROPERTY: LASTPB  <pb:KR2b0007_SBCK_221-22a>
 #+PROPERTY: JUAN 223
-
-
-¶
 <md:KR2b0007_WYG_223-1a>¶
 <pb:KR2b0007_SBCK_223-1a>
 資治通鑑卷第二百二十三
@@ -516,3 +513,4 @@
 紇胡禄都督等二百餘人入見前後贈賚繒¶帛十萬匹
 府藏空竭稅百官俸以給之
 資治通鑑卷第二百二十三
+<pb:KR2b0007_SBCK_223-22b>

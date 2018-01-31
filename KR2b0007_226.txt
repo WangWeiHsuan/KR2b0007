@@ -5,9 +5,6 @@
 #+PROPERTY:  LASTPB  <PB KR2b0007_SBCK_290-22a>
 #+PROPERTY: LASTPB  <pb:KR2b0007_SBCK_224-23b>
 #+PROPERTY: JUAN 226
-
-
-
 <md:KR2b0007_WYG_226-1a>¶
 <pb:KR2b0007_SBCK_226-1a>
 資治通鑑卷第二百二十六¶
@@ -517,3 +514,4 @@
 四州¶皆為尚書有矣¶¶諸將惡其異已共毁之悦不用其
 䇿¶
 資治通鑑卷第二百二十六
+<pb:KR2b0007_SBCK_226-22b>

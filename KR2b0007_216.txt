@@ -5,9 +5,6 @@
 #+PROPERTY:  LASTPB  <PB KR2b0007_SBCK_290-22a>
 #+PROPERTY: LASTPB  <pb:KR2b0007_SBCK_214-23a>
 #+PROPERTY: JUAN 216
-
-
-¶
 <md:KR2b0007_WYG_216-1a>¶
 <pb:KR2b0007_SBCK_216-1a>
 資治通鑑卷第二百一十六
@@ -487,3 +484,4 @@
 哉借使¶周公孔子今處銓廷考其辭華則¶不及徐庾觀
 其利口則不若嗇夫¶何暇論聖賢之事業乎¶
 資治通鑑卷第二百一十六
+<pb:KR2b0007_SBCK_216-21b>
