@@ -5,9 +5,6 @@
 #+PROPERTY:  LASTPB  <PB KR2b0007_SBCK_290-22a>
 #+PROPERTY: LASTPB  <pb:KR2b0007_SBCK_280-20b>
 #+PROPERTY: JUAN 282
-
-
-<pb:KR2b0007_SBCK_281-18b>
 <md:KR2b0007_WYG_282-1a>¶
 <pb:KR2b0007_SBCK_282-1a>
 資治通鑑卷第二百八十二
@@ -529,3 +526,4 @@
 戌制以錢弘佐為鎮海¶鎮東節度使兼中書令吳越國
 王¶
 資治通鑑卷第二百八十二
+<pb:KR2b0007_SBCK_282-23a>

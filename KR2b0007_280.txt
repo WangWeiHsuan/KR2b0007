@@ -5,9 +5,6 @@
 #+PROPERTY:  LASTPB  <PB KR2b0007_SBCK_290-22a>
 #+PROPERTY: LASTPB  <pb:KR2b0007_SBCK_278-18a>
 #+PROPERTY: JUAN 280
-
-
-¶
 <md:KR2b0007_WYG_280-1a>¶
 <pb:KR2b0007_SBCK_280-1a>
 資治通鑑巻第二百八十
@@ -465,3 +462,4 @@
 乃天意非人事也¶　髙麗王建用兵擊破新羅百濟於
 是東夷諸國皆附¶之有二京六府九節度百二十郡¶
 資治通鑑巻第二百八十
+<pb:KR2b0007_SBCK_280-20b>

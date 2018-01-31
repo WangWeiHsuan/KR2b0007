@@ -5,9 +5,6 @@
 #+PROPERTY:  LASTPB  <PB KR2b0007_SBCK_290-22a>
 #+PROPERTY: LASTPB  <pb:KR2b0007_SBCK_288-20b>
 #+PROPERTY: JUAN 290
-
-
-¶
 <md:KR2b0007_WYG_290-1a>¶
 <pb:KR2b0007_SBCK_290-1a>
 資治通鑑卷第二百九十
@@ -511,3 +508,4 @@
 州慰撫吏民　¶漢法犯私鹽麴無問多少抵死鄭州民
 有以屋稅受鹽¶於官過州城吏以爲私鹽執而殺之其
 妻訟寃癸丑始¶詔犯鹽麴者以斤兩定刑有差︻¶卷終
+<pb:KR2b0007_SBCK_290-22a>

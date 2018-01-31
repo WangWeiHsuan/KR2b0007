@@ -5,9 +5,6 @@
 #+PROPERTY:  LASTPB  <PB KR2b0007_SBCK_290-22a>
 #+PROPERTY: LASTPB  <pb:KR2b0007_SBCK_272-21b>
 #+PROPERTY: JUAN 274
-
-
-¶
 <md:KR2b0007_WYG_274-1a>¶
 <pb:KR2b0007_SBCK_274-1a>
 資治通鑑卷第二百七十四¶
@@ -499,3 +496,4 @@
 行
 <pb:KR2b0007_SBCK_274-21b>
 資治通鑑卷第二百七十四
+<pb:KR2b0007_SBCK_274-22a>

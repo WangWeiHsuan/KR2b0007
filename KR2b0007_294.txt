@@ -5,9 +5,6 @@
 #+PROPERTY:  LASTPB  <PB KR2b0007_SBCK_290-22a>
 #+PROPERTY: LASTPB  <md:KR2b0007_WYG_293-1a>
 #+PROPERTY: JUAN 294
-
-
-¶
 <md:KR2b0007_WYG_294-1a>¶
 <pb:KR2b0007_SBCK_294-1a>
 資治通鑑卷第二百九十四
@@ -441,3 +438,4 @@
 之唐人夜宴契丹使者於清風驛酒酣¶起更衣乆不返
 視之失<md:KR2b0007_WYG_294-34a>¶其首矣自是契丹與唐絶罕儒冀州人也¶
 資治通鑑卷第二百九十四¶終
+<pb:KR2b0007_SBCK_294-19b>

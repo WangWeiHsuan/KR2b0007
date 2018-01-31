@@ -5,9 +5,6 @@
 #+PROPERTY:  LASTPB  <PB KR2b0007_SBCK_290-22a>
 #+PROPERTY: LASTPB  <pb:KR2b0007_SBCK_281-18b>
 #+PROPERTY: JUAN 283
-
-
-<pb:KR2b0007_SBCK_282-23a>
 <md:KR2b0007_WYG_283-1a>¶
 <pb:KR2b0007_SBCK_283-1a>
 資治通鑑卷第二百八十三
@@ -467,3 +464,4 @@
 廣曰虜若濟河與光逺合則河南¶危矣延廣然之儀薊
 州人也
 資治通鑑卷第二百八十三
+<pb:KR2b0007_SBCK_283-20b>

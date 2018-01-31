@@ -5,9 +5,6 @@
 #+PROPERTY:  LASTPB  <PB KR2b0007_SBCK_290-22a>
 #+PROPERTY: LASTPB  <md:KR2b0007_WYG_277-1a>
 #+PROPERTY: JUAN 278
-
-
-¶
 <md:KR2b0007_WYG_278-1a>¶
 <pb:KR2b0007_SBCK_278-1a>
 資治通鑑巻第二百七十八
@@ -406,3 +403,4 @@
 并其黨　甲寅以王淑妃¶為太妃　蜀將吏勸蜀王知
 祥稱¶帝己巳知祥即皇帝位于成都
 資治通鑑巻第二百七十八
+<pb:KR2b0007_SBCK_278-18a>

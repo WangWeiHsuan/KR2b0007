@@ -5,11 +5,8 @@
 #+PROPERTY:  LASTPB  <PB KR2b0007_SBCK_290-22a>
 #+PROPERTY: LASTPB  <md:KR2b0007_WYG_294-1a>
 #+PROPERTY: JUAN 295
-
-
-<pb:KR2b0007_SBCK_294-19b>
-
 <pb:KR2b0007_SBCK_295-1a>
+# SB1_0178-160.png
 資治通鑑凡二百九十四卷
 　　　周紀五
 　　　秦紀三
@@ -158,6 +155,7 @@
 　　　　　　　進士顧　大冶　進士吕　克勤
 　　　　　　　進士張　彦衡　進士朱　國輔
 <pb:KR2b0007_SBCK_295-7b>
+# ?
 　　　　　進士杜　紱　進士孫　彬
 　右迪功郎紹興府餘姚縣主簿王　絪
 　右從事郎紹興府&KR0792;縣尉薛　鎡
@@ -168,3 +166,5 @@
 　　　　　　　　　　　　　　　　　　仲將
 　　　　　　　　　　　　　　　　　　端禮
 　　　　　　　　　　　　　　　　　　九成
+# SB1_0178-174.png
+# page missing

@@ -5,9 +5,6 @@
 #+PROPERTY:  LASTPB  <PB KR2b0007_SBCK_290-22a>
 #+PROPERTY: LASTPB  <md:KR2b0007_WYG_280-1a>
 #+PROPERTY: JUAN 281
-
-
-<pb:KR2b0007_SBCK_280-20b>
 <md:KR2b0007_WYG_281-1a>¶
 <pb:KR2b0007_SBCK_281-1a>
 資治通鑑巻第二百八十一
@@ -423,3 +420,6 @@
 從曮厚文士而薄武人愛農民而嚴¶士卒由是將士怨
 之㑹發兵戍西邉旣出郊作亂突門¶入城剽掠於市從
 曮發帳下兵撃之亂¶兵敗東走欲自訴於朝廷至華州
+<pb:KR2b0007_SBCK_281-18b>
+# SB1_0175-121.png
+# page missing

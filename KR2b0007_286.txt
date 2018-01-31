@@ -5,9 +5,6 @@
 #+PROPERTY:  LASTPB  <PB KR2b0007_SBCK_290-22a>
 #+PROPERTY: LASTPB  <pb:KR2b0007_SBCK_284-19b>
 #+PROPERTY: JUAN 286
-
-
-<pb:KR2b0007_SBCK_285-19b>
 <md:KR2b0007_WYG_286-1a>¶
 <pb:KR2b0007_SBCK_286-1a>
 資治通鑑卷第二百八十六¶
@@ -452,3 +449,4 @@
 節度使以下拜於階下李崧以虜意不同事¶理難測固
 <pb:KR2b0007_SBCK_286-19b>
 請趙延壽未行此禮乃止<md:KR2b0007_WYG_286-36a>¶資治通鑑卷第二百八十六
+<pb:KR2b0007_SBCK_286-20a>

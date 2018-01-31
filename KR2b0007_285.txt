@@ -5,9 +5,6 @@
 #+PROPERTY:  LASTPB  <PB KR2b0007_SBCK_290-22a>
 #+PROPERTY: LASTPB  <pb:KR2b0007_SBCK_283-20b>
 #+PROPERTY: JUAN 285
-
-
-<pb:KR2b0007_SBCK_284-19b>
 <md:KR2b0007_WYG_285-1a>¶
 <pb:KR2b0007_SBCK_285-1a>
 資治通鑑卷第二百八十五
@@ -440,3 +437,4 @@
 記<md:KR2b0007_WYG_285-35b>¶語示之乃服毎服一事輒¶授一籌至八籌延廣但以
 面伏地請死乃鎖之丙戌晦¶百官㝛於封禪寺
 資治通鑑卷第二百八十五
+<pb:KR2b0007_SBCK_285-19b>

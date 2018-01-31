@@ -5,9 +5,6 @@
 #+PROPERTY:  LASTPB  <PB KR2b0007_SBCK_290-22a>
 #+PROPERTY: LASTPB  <pb:KR2b0007_SBCK_286-20a>
 #+PROPERTY: JUAN 288
-
-
-¶
 <md:KR2b0007_WYG_288-1a>¶
 <pb:KR2b0007_SBCK_288-1a>
 資治通鑑卷第二百八十八
@@ -469,3 +466,4 @@
 海州荻水鎭殘¶之是月南漢主如英州¶　是歳唐泉州
 刺史留從效¶兄南州副使從願酖刺史董思安而代之<md:KR2b0007_WYG_288-35a>¶唐主不能制置清源¶軍於泉州以從效爲節度使¶
 資治通鑑卷第二百八十八
+<pb:KR2b0007_SBCK_288-20b>

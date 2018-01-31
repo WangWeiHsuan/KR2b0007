@@ -5,9 +5,6 @@
 #+PROPERTY:  LASTPB  <PB KR2b0007_SBCK_290-22a>
 #+PROPERTY: LASTPB  <pb:KR2b0007_SBCK_282-23a>
 #+PROPERTY: JUAN 284
-
-
-<pb:KR2b0007_SBCK_283-20b>
 <md:KR2b0007_WYG_284-1a>¶
 <pb:KR2b0007_SBCK_284-1a>
 資治通鑑卷第二百八十四
@@ -442,3 +439,4 @@
 得人心遣人伺之希杲懼稱疾求歸¶不許遣醫往視疾
 因毒殺之
 資治通鑑卷第二百八十四
+<pb:KR2b0007_SBCK_284-19b>
