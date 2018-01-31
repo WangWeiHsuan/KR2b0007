@@ -5,9 +5,6 @@
 #+PROPERTY:  LASTPB  <PB KR2b0007_SBCK_290-22a>
 #+PROPERTY: LASTPB  <md:KR2b0007_WYG_266-1a>
 #+PROPERTY: JUAN 267
-
-
-¶
 <md:KR2b0007_WYG_267-1a>¶
 <pb:KR2b0007_SBCK_267-1a>
 資治通鑑卷第二百六十七
@@ -518,3 +515,4 @@
 德明本姓張名文禮燕人也壬¶午晉王發趙州歸晉陽
 留周德威等將三千人戍趙州¶
 資治通鑑卷第二百六十七
+<pb:KR2b0007_SBCK_267-22b>

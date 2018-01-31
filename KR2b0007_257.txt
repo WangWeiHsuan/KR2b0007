@@ -5,9 +5,6 @@
 #+PROPERTY:  LASTPB  <PB KR2b0007_SBCK_290-22a>
 #+PROPERTY: LASTPB  <md:KR2b0007_WYG_256-1a>
 #+PROPERTY: JUAN 257
-
-
-¶
 <md:KR2b0007_WYG_257-1a>¶
 <pb:KR2b0007_SBCK_257-1a>
 資治通鑑卷第二百五十七
@@ -498,3 +495,4 @@
 厚陷夔州
 <pb:KR2b0007_SBCK_257-21b>
 資治通鑑卷第二百五十七
+<pb:KR2b0007_SBCK_257-22a>

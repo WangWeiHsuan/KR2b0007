@@ -5,9 +5,6 @@
 #+PROPERTY:  LASTPB  <PB KR2b0007_SBCK_290-22a>
 #+PROPERTY: LASTPB  <md:KR2b0007_WYG_259-1a>
 #+PROPERTY: JUAN 260
-
-
-¶
 <md:KR2b0007_WYG_260-1a>¶
 <pb:KR2b0007_SBCK_260-1a>
 資治通鑑卷第二百六十
@@ -498,3 +495,4 @@
 襲廣州斬琚¶具軍容迎知柔入視事¶知柔表隠爲行軍
 <pb:KR2b0007_SBCK_260-21b>
 司馬<md:KR2b0007_WYG_260-39a>¶資治通鑑卷第二百六十
+<pb:KR2b0007_SBCK_260-22a>

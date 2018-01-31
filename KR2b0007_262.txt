@@ -5,9 +5,6 @@
 #+PROPERTY:  LASTPB  <PB KR2b0007_SBCK_290-22a>
 #+PROPERTY: LASTPB  <pb:KR2b0007_SBCK_260-22a>
 #+PROPERTY: JUAN 262
-
-
-¶
 <md:KR2b0007_WYG_262-1a>¶
 <pb:KR2b0007_SBCK_262-1a>
 資治通鑑卷第二百六十二
@@ -490,3 +487,4 @@
 殺虎乃得免¶既貴悔之常戒諸子曰士處丗貴智謀勿
 效吾暴虎也¶　武貞節度使雷滿薨子彦¶威自稱留後¶
 資治通鑑卷第二百六十二
+<pb:KR2b0007_SBCK_262-21b>

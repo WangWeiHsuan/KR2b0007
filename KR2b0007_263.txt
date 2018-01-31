@@ -5,9 +5,6 @@
 #+PROPERTY:  LASTPB  <PB KR2b0007_SBCK_290-22a>
 #+PROPERTY: LASTPB  <md:KR2b0007_WYG_262-1a>
 #+PROPERTY: JUAN 263
-
-
-<pb:KR2b0007_SBCK_262-21b>
 <md:KR2b0007_WYG_263-1a>¶
 <pb:KR2b0007_SBCK_263-1a>
 資治通鑑卷第二百六十三
@@ -465,3 +462,4 @@
 鄂岳行營招討使舒州團練使劉有副之將兵擊杜洪¶
 洪將駱殷戍永興弃城走縣民方詔據城降神福曰永<md:KR2b0007_WYG_263-39a>¶興大縣饋運所仰巳得鄂之半矣¶
 資治通鑑卷第二百六十三
+<pb:KR2b0007_SBCK_263-20b>

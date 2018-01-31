@@ -5,9 +5,6 @@
 #+PROPERTY:  LASTPB  <PB KR2b0007_SBCK_290-22a>
 #+PROPERTY: LASTPB  <pb:KR2b0007_SBCK_262-21b>
 #+PROPERTY: JUAN 264
-
-
-<pb:KR2b0007_SBCK_263-20b>
 <md:KR2b0007_WYG_264-1a>¶
 <pb:KR2b0007_SBCK_264-1a>
 資治通鑑卷第二百六十四
@@ -385,3 +382,4 @@
 鏐求封吳越¶王朝廷不許朱全忠爲之言於執政乃更
 封吴王¶　更命魏博曰天雄軍¶癸亥進天雄節¶度使長
 沙郡王羅紹威爵鄴王<md:KR2b0007_WYG_264-35b>¶資治通鑑卷第二百六十四
+<pb:KR2b0007_SBCK_264-17a>
