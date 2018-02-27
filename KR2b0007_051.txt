@@ -7,7 +7,10 @@
 #+PROPERTY: JUAN 51
 
 # SB1_0111-084.png
-# page missing
+資治通鑑卷第五十一
+
+　　　　　　臣司馬光奉勑編集
+　　
 <md:KR2b0007_WYG_051-1a>¶
 <pb:KR2b0007_SBCK_051-1a>
 # SB1_0111-085.png
