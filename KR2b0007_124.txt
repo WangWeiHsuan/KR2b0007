@@ -7,7 +7,10 @@
 #+PROPERTY: JUAN 124
 
 # SB1_0129-128.png
-# page missing
+資治通鑑卷第一百二十四
+
+　　　　　　臣司馬光奉勑編集
+　　
 <md:KR2b0007_WYG_124-1a>¶
 <pb:KR2b0007_SBCK_124-1a>
 # SB1_0129-129.png
